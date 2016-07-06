@@ -1,6 +1,6 @@
 'use strict';
 
-var irregulares = require('./irregulares.json');
+var irregulares = require('../irregulares.json');
 
 module.exports = function (verbo) {
     verbo = verbo.toLowerCase().trim();

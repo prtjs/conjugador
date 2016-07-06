@@ -1,12 +1,18 @@
 {
-    "name": "conjugador",
-    "version": "0.0.0",
-    "description": "Um conjugador de verbos da lingua portuguesa.",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/theuves/conjugador.git"
-    },
-    "author": "Matheus Alves",
-    "license": "MIT"
+  "name": "conjugador",
+  "version": "0.0.0",
+  "description": "Um conjugador de verbos da lingua portuguesa.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theuves/conjugador.git"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  },
+  "scripts": {
+    "build": "browserify src/conjugador.js -s conjugar -o dist/conjugador.js"
+  },
+  "author": "Matheus Alves",
+  "license": "MIT"
 }
