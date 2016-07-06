@@ -1,6 +1,6 @@
 'use strict';
 
-var irregulares = require('./irregulares.json');
+var irregulares = require('../irregulares.json');
 
 module.exports = function (verbo) {
     verbo = verbo.toLowerCase().trim();
@@ -31,12 +31,24 @@ module.exports = function (verbo) {
         }
 
         var reTerminacao = new RegExp(terminacao + '$');
+        var comI = /(ui|ue)r$/.test(verbo);
 
         conjugacoes.forEach(function (conjugacao, index) {
             var pessoa = pessoas[index];
-            conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
+
+            if (comI && /^(tu|ele|vos)$/.test(pessoa)) {
+                if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'is');
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'i');
+                } else if (pessoa === 'vos') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'ís');
+                }
+            } else {
+                conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
+            }
         });
     }
 
     return conjugado;
-}
+};
