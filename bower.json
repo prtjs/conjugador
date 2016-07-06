@@ -1,0 +1,15 @@
+{
+  "name": "conjugador",
+  "version": "0.0.0",
+  "description": "Um conjugador de verbos da língua portuguesa",
+  "main": "dist/conjugador.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theuves/conjugador.git"
+  },
+  "authors": [{
+    "name": "Matheus Alves",
+    "email": "theuves@gmail.com"
+  }],
+  "license": "MIT"
+}
