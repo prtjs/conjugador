@@ -2,7 +2,7 @@
   "name": "conjugador",
   "version": "0.0.0",
   "description": "Um conjugador de verbos da lingua portuguesa.",
-  "main": "index.js",
+  "main": "src/conjugador.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/theuves/conjugador.git"
