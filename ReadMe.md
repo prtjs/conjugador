@@ -2,7 +2,7 @@
 
 Um conjugador de verbos da língua portuguesa.
 
-**Instalação**: `npm install --save  conjugador`
+**Instalação**: `npm install --save  conjugador`.
 
 ```js
 var conjugar = require('conjugador');
