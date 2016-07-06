@@ -1,6 +1,6 @@
-#  conjugador
+#  conjugador.js
 
-Um conjugador de verbos da língua portuguesa.
+> Um conjugador de verbos da língua portuguesa.
 
 **Instalação**: `npm install --save  conjugador`.
 
