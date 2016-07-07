@@ -7,6 +7,14 @@
     "type": "git",
     "url": "git://github.com/theuves/conjugador.git"
   },
+  "ignore": [
+    ".editorconfig",
+    ".gitignore"
+    ".npmignore",
+    "package.json"
+    "src/conjugador.js"
+    "src/irregulares.json"
+  ],
   "authors": [{
     "name": "Matheus Alves",
     "email": "theuves@gmail.com"
