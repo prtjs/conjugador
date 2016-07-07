@@ -8,9 +8,11 @@
     "url": "git://github.com/theuves/conjugador.git"
   },
   "devDependencies": {
+    "ava": "^0.15.2",
     "browserify": "^13.0.1"
   },
   "scripts": {
+    "test": "ava",
     "build": "browserify src/conjugador.js -s conjugar -o dist/conjugador.js"
   },
   "author": "Matheus Alves",
