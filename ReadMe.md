@@ -1,4 +1,4 @@
-#  conjugador.js
+#  conjugador.js [![Build Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)](https://travis-ci.org/theuves/conjugador)
 
 > Um conjugador de verbos da língua portuguesa.
 
