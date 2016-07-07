@@ -323,7 +323,7 @@ module.exports={
         "coíbem"
     ],
     "colorir": [
-        "coluro",
+        "coloro",
         "colores",
         "colore",
         "colorimos",
@@ -339,12 +339,12 @@ module.exports={
         "comedem"
     ],
     "comerciar": [
-        "comerceio/comercio",
-        "comerceias/comercias",
-        "comerceia/comercia",
+        "comercio",
+        "comercias",
+        "comercia",
         "comerciamos",
         "comerciais",
-        "comerciam/comerceiam"
+        "comerceiam"
     ],
     "compelir": [
         "compilo",
@@ -798,8 +798,8 @@ module.exports={
         "hei",
         "hás",
         "há",
-        "havemos/hemos",
-        "heis/haveis",
+        "havemos",
+        "haveis",
         "hão"
     ],
     "hebraizar": [
@@ -886,8 +886,8 @@ module.exports={
         "vou",
         "vais",
         "vai",
-        "imos/vamos",
-        "is/ides",
+        "vamos",
+        "ides",
         "vão"
     ],
     "jazer": [
@@ -915,12 +915,12 @@ module.exports={
         "lêem"
     ],
     "licenciar": [
-        "licencio/licenceio",
-        "licenceias/licencias",
-        "licenceia/licencia",
+        "licencio",
+        "licencias",
+        "licencia",
         "licenciamos",
         "licenciais",
-        "licenciam/licenceiam"
+        "licenciam"
     ],
     "malquerer": [
         "malquero",
@@ -995,12 +995,12 @@ module.exports={
         "multicolorem"
     ],
     "negociar": [
-        "negoceio/negocio",
-        "negocias/negoceias",
-        "negoceia/negocia",
+        "negocio",
+        "negocias",
+        "negocia",
         "negociamos",
         "negociais",
-        "negociam/negoceiam"
+        "negociam"
     ],
     "obliquar": [
         "obliquo",
@@ -1043,7 +1043,7 @@ module.exports={
         "odeiam"
     ],
     "ouvir": [
-        "ouço/oiço",
+        "ouço",
         "ouves",
         "ouve",
         "ouvimos",
