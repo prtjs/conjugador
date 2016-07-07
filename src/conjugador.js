@@ -33,6 +33,7 @@ module.exports = function (verbo) {
         var reTerminacao = new RegExp(terminacao + '$');
         var comI = /(ui|ue)r$/.test(verbo);
         var adicionarCircunflexo = /(oe|oa)r$/.test(verbo);
+        var comIeTil = /oer$/.test(verbo);
 
         conjugacoes.forEach(function (conjugacao, index) {
             var pessoa = pessoas[index];
@@ -45,8 +46,14 @@ module.exports = function (verbo) {
                 } else if (pessoa === 'vos') {
                     conjugado[pessoa] = verbo.replace(reTerminacao, 'ís');
                 }
-            } if (adicionarCircunflexo && pessoa === 'eu') {
-                conjugado[pessoa] = verbo.replace(/o(e|o)r$/, 'ôo');
+            } else if (adicionarCircunflexo && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/o(e|a)r$/, 'ôo');
+            } else if (comIeTil && /^(tu|ele)$/.test(pessoa)) {
+                if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(/oer$/, 'óis');
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(/oer$/, 'ói');
+                }
             } else {
                 conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
             }
