@@ -1,4 +1,94 @@
 (function(f){if(typeof exports==="object"&&typeof module!=="undefined"){module.exports=f()}else if(typeof define==="function"&&define.amd){define([],f)}else{var g;if(typeof window!=="undefined"){g=window}else if(typeof global!=="undefined"){g=global}else if(typeof self!=="undefined"){g=self}else{g=this}g.conjugar = f()}})(function(){var define,module,exports;return (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
+'use strict';
+
+var irregulares = require('./irregulares.json');
+
+module.exports = function (verbo) {
+    verbo = verbo.toLowerCase().trim();
+
+    if (!/r$/.test(verbo)) {
+        return new Error('Verbo inválido');
+    }
+
+    var conjugado = {};
+    var pessoas = ['eu', 'tu', 'ele', 'nos', 'vos', 'eles'];
+
+    if (/.p[oô]r$/.test(verbo)) {
+        var conjugacao = irregulares['pôr'];
+        verbo = verbo.replace(/p[oô]r$/, '');
+
+        pessoas.forEach(function (pessoa, index) {
+            conjugado[pessoa] = verbo + conjugacao[index];
+        });
+    } else if (irregulares[verbo]) {
+        var conjugacao = irregulares[verbo];
+
+        pessoas.forEach(function (pessoa, index) {
+            conjugado[pessoa] = conjugacao[index];
+        });
+    } else {
+        var terminacao = verbo.replace(/^.*([aei]r)$/, '$1');
+        var conjugacoes;
+
+        if (terminacao === 'ar') {
+            conjugacoes = ['o', 'as', 'a', 'amos', 'ais', 'am'];
+        } else if (terminacao === 'er') {
+            conjugacoes = ['o', 'es', 'e', 'emos', 'eis', 'em'];
+        } else if (terminacao === 'ir') {
+            conjugacoes = ['o', 'es', 'e', 'imos', 'is', 'em'];
+        }
+
+        var reTerminacao = new RegExp(terminacao + '$');
+        var comI = /(ui|ue)r$/.test(verbo);
+        var adicionarCircunflexo = /(oe|oa)r$/.test(verbo);
+        var comIeTil = /oer$/.test(verbo);
+        var terminaEmAir = /air$/.test(verbo);
+        var terminaEmGir = /gir$/.test(verbo);
+        var terminaEmCer = /cer$/.test(verbo);
+
+        conjugacoes.forEach(function (conjugacao, index) {
+            var pessoa = pessoas[index];
+
+            if (comI && /^(tu|ele|vos)$/.test(pessoa)) {
+                if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'is');
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'i');
+                } else if (pessoa === 'vos') {
+                    conjugado[pessoa] = verbo.replace(reTerminacao, 'ís');
+                }
+            } else if (adicionarCircunflexo && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/o(e|a)r$/, 'ôo');
+            } else if (comIeTil && /^(tu|ele)$/.test(pessoa)) {
+                if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(/oer$/, 'óis');
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(/oer$/, 'ói');
+                }
+            } else if (terminaEmAir && /^(eu|tu|ele|vos)$/.test(pessoa)) {
+                if (pessoa === 'eu') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'aio');
+                } else if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'ais')
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'ai')
+                } else if (pessoa === 'vos') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'aís')
+                }
+            } else if (terminaEmGir && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/gir$/, 'jo');
+            } else if (terminaEmCer && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/cer$/, 'ço');
+            } else {
+                conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
+            }
+        });
+    }
+
+    return conjugado;
+};
+
+},{"./irregulares.json":2}],2:[function(require,module,exports){
 module.exports={
     "abaular": [
         "abaúlo",
@@ -353,7 +443,7 @@ module.exports={
         "convêm"
     ],
     "corroer": [
-        "corroo",
+        "corrôo",
         "corróis",
         "corrói",
         "corroemos",
@@ -537,7 +627,7 @@ module.exports={
         "divertem"
     ],
     "doer": [
-        "doo",
+        "dôo",
         "dóis",
         "dói",
         "doemos",
@@ -881,7 +971,7 @@ module.exports={
         "minguam"
     ],
     "moer": [
-        "moo",
+        "môo",
         "móis",
         "mói",
         "moemos",
@@ -1153,7 +1243,7 @@ module.exports={
         "redimem"
     ],
     "remoer": [
-        "remoo",
+        "remôo",
         "remóis",
         "remói",
         "remoemos",
@@ -1241,7 +1331,7 @@ module.exports={
         "riem"
     ],
     "roer": [
-        "roo",
+        "rôo",
         "róis",
         "rói",
         "roemos",
@@ -1433,49 +1523,6 @@ module.exports={
         "viúvam"
     ]
 }
-},{}],2:[function(require,module,exports){
-'use strict';
 
-var irregulares = require('../irregulares.json');
-
-module.exports = function (verbo) {
-    verbo = verbo.toLowerCase().trim();
-
-    if (!/r$/.test(verbo)) {
-        return new Error('Verbo inválido');
-    }
-
-    var conjugado = {};
-    var pessoas = ['eu', 'tu', 'ele', 'nos', 'vos', 'eles'];
-
-    if (irregulares[verbo]) {
-        var conjugacao = irregulares[verbo];
-
-        pessoas.forEach(function (pessoas, index) {
-            conjugado[pessoas] = conjugacao[index];
-        });
-    } else {
-        var terminacao = verbo.replace(/^.*([aei]r)$/, '$1');
-        var conjugacoes;
-
-        if (terminacao === 'ar') {
-            conjugacoes = ['o', 'as', 'a', 'amos', 'ais', 'am'];
-        } else if (terminacao === 'er') {
-            conjugacoes = ['o', 'es', 'e', 'emos', 'eis', 'em'];
-        } else if (terminacao === 'ir') {
-            conjugacoes = ['o', 'es', 'e', 'imos', 'is', 'em'];
-        }
-
-        var reTerminacao = new RegExp(terminacao + '$');
-
-        conjugacoes.forEach(function (conjugacao, index) {
-            var pessoa = pessoas[index];
-            conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
-        });
-    }
-
-    return conjugado;
-}
-
-},{"../irregulares.json":1}]},{},[2])(2)
+},{}]},{},[1])(1)
 });

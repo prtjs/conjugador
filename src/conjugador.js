@@ -12,11 +12,18 @@ module.exports = function (verbo) {
     var conjugado = {};
     var pessoas = ['eu', 'tu', 'ele', 'nos', 'vos', 'eles'];
 
-    if (irregulares[verbo]) {
+    if (/.p[oô]r$/.test(verbo)) {
+        var conjugacao = irregulares['pôr'];
+        verbo = verbo.replace(/p[oô]r$/, '');
+
+        pessoas.forEach(function (pessoa, index) {
+            conjugado[pessoa] = verbo + conjugacao[index];
+        });
+    } else if (irregulares[verbo]) {
         var conjugacao = irregulares[verbo];
 
-        pessoas.forEach(function (pessoas, index) {
-            conjugado[pessoas] = conjugacao[index];
+        pessoas.forEach(function (pessoa, index) {
+            conjugado[pessoa] = conjugacao[index];
         });
     } else {
         var terminacao = verbo.replace(/^.*([aei]r)$/, '$1');
@@ -34,6 +41,9 @@ module.exports = function (verbo) {
         var comI = /(ui|ue)r$/.test(verbo);
         var adicionarCircunflexo = /(oe|oa)r$/.test(verbo);
         var comIeTil = /oer$/.test(verbo);
+        var terminaEmAir = /air$/.test(verbo);
+        var terminaEmGir = /gir$/.test(verbo);
+        var terminaEmCer = /cer$/.test(verbo);
 
         conjugacoes.forEach(function (conjugacao, index) {
             var pessoa = pessoas[index];
@@ -54,6 +64,20 @@ module.exports = function (verbo) {
                 } else if (pessoa === 'ele') {
                     conjugado[pessoa] = verbo.replace(/oer$/, 'ói');
                 }
+            } else if (terminaEmAir && /^(eu|tu|ele|vos)$/.test(pessoa)) {
+                if (pessoa === 'eu') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'aio');
+                } else if (pessoa === 'tu') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'ais')
+                } else if (pessoa === 'ele') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'ai')
+                } else if (pessoa === 'vos') {
+                    conjugado[pessoa] = verbo.replace(/air$/, 'aís')
+                }
+            } else if (terminaEmGir && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/gir$/, 'jo');
+            } else if (terminaEmCer && pessoa === 'eu') {
+                conjugado[pessoa] = verbo.replace(/cer$/, 'ço');
             } else {
                 conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
             }
