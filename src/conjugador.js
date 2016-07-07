@@ -46,7 +46,7 @@ module.exports = function (verbo) {
                     conjugado[pessoa] = verbo.replace(reTerminacao, 'ís');
                 }
             } if (adicionarCircunflexo && pessoa === 'eu') {
-                conjugado[pessoa] = verbo.replace(/o(a|o)r$/, 'ôo');
+                conjugado[pessoa] = verbo.replace(/o(e|o)r$/, 'ôo');
             } else {
                 conjugado[pessoa] = verbo.replace(reTerminacao, conjugacao);
             }
