@@ -1,5 +1,8 @@
 'use strict';
 
+// Conjugador.js | Versão 0.0.2
+// Copyright (c) 2016 Matheus Alves
+
 var irregulares = require('./irregulares.json');
 
 module.exports = function (verbo) {
@@ -7,6 +10,10 @@ module.exports = function (verbo) {
 
     if (!/r$/.test(verbo)) {
         return new Error('Verbo inválido');
+    }
+
+    if (/[uo]r/.test(verbo)) {
+        return new Error('Não existem verbos terminados em -or ou -ur');
     }
 
     var conjugado = {};
