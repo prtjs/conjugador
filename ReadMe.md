@@ -17,5 +17,5 @@ conjugar('pôr'); // {eu: 'ponho', tu: 'pões', ele: 'põe', ...}
 
 Feito por **@theuves**
 
-[![GitHub followers](https://img.shields.io/github/followers/theuves.svg?style=social&label=Follow)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/theuves.svg?style=social&label=Follow)]()
+[![GitHub followers](https://img.shields.io/github/followers/theuves.svg?style=social&label=Follow)](https://github.com/theuves)
+[![Twitter Follow](https://img.shields.io/twitter/follow/theuves.svg?style=social&label=Follow)](https://twitter.com/theuves)
