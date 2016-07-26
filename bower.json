@@ -9,10 +9,10 @@
   },
   "ignore": [
     ".editorconfig",
-    ".gitignore"
+    ".gitignore",
     ".npmignore",
-    "package.json"
-    "src/conjugador.js"
+    "package.json",
+    "src/conjugador.js",
     "src/irregulares.json"
   ],
   "authors": [{
