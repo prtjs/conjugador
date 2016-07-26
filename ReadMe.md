@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)](https://travis-ci.org/theuves/conjugador)
 [![Downloads](https://img.shields.io/npm/dm/conjugador.svg)](https://github.com/theuves/conjugador/releases)
-[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/theuves/conjugador/tree/0.0.2)
-
+[![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)](https://github.com/theuves/conjugador/tree/0.0.3)
 > Um conjugador de verbos da língua portuguesa.
 
 **Instalação**: `npm i -s conjugador` ou `bower i -s conjugador`.

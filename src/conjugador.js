@@ -1,6 +1,6 @@
 'use strict';
 
-// Conjugador.js | Versão 0.0.2
+// Conjugador.js | Versão 0.0.3
 // Copyright (c) 2016 Matheus Alves
 
 var irregulares = require('./irregulares.json');
