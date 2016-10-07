@@ -12,7 +12,7 @@ module.exports = function (verbo) {
         return new Error('Verbo inválido');
     }
 
-    if (/[uo]r/.test(verbo)) {
+    if (/[uo]r$/.test(verbo)) {
         return new Error('Não existem verbos terminados em -or ou -ur');
     }
 
