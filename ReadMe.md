@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/npm/dm/conjugador.svg)](https://github.com/theuves/conjugador/releases)
 [![npm version](https://badge.fury.io/js/conjugador.svg)](https://badge.fury.io/js/conjugador)
 
-> Um conjugador de verbos da língua portuguesa.
+> Conjugue verbos da língua portuguesa no presente do indicativo.
 
 Veja mais informações [aqui](https://github.com/theuves/conjugador/tree/docs#readme).
 
