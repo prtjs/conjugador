@@ -19,7 +19,7 @@ Importe-o com:
 
 ## Utilização
 
-Após a instalação e configuração, você terá a função `conjugar` pronta para uso. Essa função recebe um único parametro, que deve ser um verbo, e retorna um objeto com toda a conjugação do mesmo. Veja dois exemplos abaixo com um verbo regular e outro irregular:
+Após a instalação e configuração, você terá a função `conjugar` pronta para uso. Essa função recebe um único parâmetro, que deve ser um verbo, e retorna um objeto com toda a conjugação do mesmo. Veja dois exemplos abaixo com um verbo regular e outro irregular:
 
 ```js
 conjugar('amar'); // {"eu":"amo","tu":"amas","ele":"ama","nos":"amamos","vos":"amais","eles":"amam"}
