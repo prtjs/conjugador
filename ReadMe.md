@@ -1,4 +1,4 @@
-#  conjugador.js
+#  Conjugador.js
 
 [![Build Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)](https://travis-ci.org/theuves/conjugador)
 [![Downloads](https://img.shields.io/npm/dm/conjugador.svg)](https://github.com/theuves/conjugador/releases)
@@ -8,18 +8,20 @@
 
 Esta é uma biblioteca que lhe permite conjugar qualquer verbo existente ou inexistente (que tenha uma conjugação válida) da língua portuguesa no presente do modo indicativo.
 
-Verbos irregulares são conjugados com a ajuda de uma lista (incompleta) com a conjugação pronta de alguns verbos mais conhecidos, já os verbos regulares são conjugados a partir de um algoritmo.
+Verbos irregulares são conjugados com a ajuda de uma lista (incompleta) com a conjugação pronta de alguns verbos mais conhecidos (mais de 170), já os verbos regulares são conjugados a partir de um algoritmo.
 
-**Instalação**: `npm i -s conjugador` ou `bower i -s conjugador`.
+## Instalação
 
-Importe-o com:
+Instale-o com `npm i -s conjugador` ou `bower i -s conjugador`.
 
-* `var conjugar = require('conjugador')`: para usá-lo com Node.js
-* `<script src="bower_components/conjugador/dist/conjugador.js"></script>`: para usá-lo no navegador
+Após instalar, importe-o com:
 
-## Utilização
+* `var conjugar = require('conjugador')` ― Para usá-lo com Node.js.
+* `<script src="bower_components/conjugador/dist/conjugador.js"></script>` ― Para usá-lo em um navegador.
 
-Após a instalação e configuração, você terá a função `conjugar` pronta para uso. Essa função recebe um único parâmetro, que deve ser um verbo, e retorna um objeto com toda a conjugação do mesmo. Veja dois exemplos abaixo com um verbo regular e outro irregular:
+## Uso
+
+Após a instalação e configuração, você terá a função `conjugar` pronta para uso. Essa função recebe um único parâmetro, que deve ser um verbo, e retorna um objeto com toda a sua conjugação. Veja dois exemplos abaixo com um verbo regular e outro irregular:
 
 ```js
 conjugar('amar'); // {"eu":"amo","tu":"amas","ele":"ama","nos":"amamos","vos":"amais","eles":"amam"}
