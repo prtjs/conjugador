@@ -19,7 +19,7 @@ module.exports = function (verbo) {
     var conjugado = {};
     var pessoas = ['eu', 'tu', 'ele', 'nos', 'vos', 'eles'];
 
-    if (/.p[oô]r$/.test(verbo)) {
+    if (/p[oô]r$/.test(verbo)) {
         var conjugacao = irregulares['pôr'];
         verbo = verbo.replace(/p[oô]r$/, '');
 
