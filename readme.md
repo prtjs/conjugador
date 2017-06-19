@@ -1,6 +1,6 @@
 # Conjugador.js
 
-> Um conjugador de verbos. 100% offline.
+> Um conjugador de verbos da língua portuguesa.
 
 ## Características
 
@@ -50,12 +50,12 @@ As propriedades retornadas são:
 
 ## Exemplo
 
-Um exemplo para obter a conjugação do verbo *amar*.
+Um exemplo para obter a conjugação do verbo *amar* no presente.
 
 ```js
 var conjugar = require("conjugador");
 
-conjugar("amar");
+conjugar("amar").presente;
 // [ "amo",
 //   "amas",
 //   "ama",
@@ -63,6 +63,10 @@ conjugar("amar");
 //   "amais",
 //   "amam" ]
 ```
+
+## Como Funciona?
+
+Os verbos regulares são conjugados a partir de um algoritmo, enquanto os irregulares com ajuda de uma lista pronta com mais de 163 verbos mais conhecidos. Não é exigido que o verbo seja "oficial", bastando ser conjugável, portanto também é possível conjugar verbos como *twittar*, *forkar*, *photoshopar*, etc.
 
 ## Licença
 
