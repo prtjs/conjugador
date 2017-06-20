@@ -33,7 +33,7 @@ conjugar([verbbo])
 
 #### Parâmetros
 
-- `verbo` ― Um verbo qualquer (regular ou irregular).
+* `verbo` ― Um verbo qualquer (regular ou irregular).
 
 #### Retorno
 
