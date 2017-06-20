@@ -1,19 +1,16 @@
 {
   "name": "conjugador",
   "version": "0.0.5",
-  "description": "Conjugue verbos da língua portuguesa no presente do indicativo.",
+  "description": "Um conjugador de verbos da língua portuguesa.",
   "main": "dist/conjugador.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/theuves/conjugador.git"
-  },
+  "repository": "theuves/conjugador",
   "ignore": [
+    "src/",
+    "test/",
     ".editorconfig",
     ".gitignore",
     ".npmignore",
-    "package.json",
-    "src/conjugador.js",
-    "src/irregulares.json"
+    "package.json"
   ],
   "authors": [{
     "name": "Matheus Alves",
