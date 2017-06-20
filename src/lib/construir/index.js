@@ -10,7 +10,7 @@ var por = require("./terminacoes/por");
 /**
  * Obter toda a conjugação de um verbo.
  *
- * Somente para verbos terminados em -ar, -er, ir, -pôr.
+ * Somente para verbos terminados em -ar, -er, ir ou -pôr.
  *
  * @param {String} verbo - Um verbo.
  * @returns {Object} Toda a conjugação do verbo.
