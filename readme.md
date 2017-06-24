@@ -28,7 +28,7 @@ var conjugar = require("conjugador");
 ### Sintaxe
 
 ```js
-conjugar([verbbo])
+conjugar(verbo)
 ```
 
 #### Parâmetros
