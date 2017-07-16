@@ -7,7 +7,7 @@
 * Aceita verbos irregulares.
 * Não requer conexão com a *internet*.
 
-Um utilitário para conjugar qualquer verbo da língua portuguesa, regular ou irregular, nos seis tempos modo indicativo (presente, pretérito imperfeito, pretérito perfeito, pretérito mais que perfeito, futuro do presente e futuro do pretérito).
+Um utilitário para conjugar verbos da língua portuguesa, regulares ou irregulares, nos seis tempos do modo indicativo (presente, pretérito imperfeito, pretérito perfeito, pretérito mais-que-perfeito, futuro do presente e futuro do pretérito).
 
 ## Instalação
 
@@ -37,7 +37,7 @@ conjugar(verbo)
 
 #### Retorno
 
-Retorna um objeto com as conjugações do verbo onde o valor de cada propriedade é uma *array* com a conjugação em todas as pessoas do singular e do plural.
+Retorna um objeto com as conjugações do verbo no qual o valor de cada propriedade é uma *array* com a conjugação em todas as pessoas do singular e do plural.
 
 As propriedades retornadas são:
 
@@ -66,7 +66,7 @@ conjugar("amar").presente;
 
 ## Como Funciona?
 
-Os verbos regulares são conjugados a partir de um algoritmo, enquanto os irregulares com ajuda de uma lista pronta com mais de 163 verbos mais conhecidos. Não é exigido que o verbo seja "oficial", bastando ser conjugável, portanto também é possível conjugar verbos como *twittar*, *forkar*, *photoshopar*, etc.
+Os verbos regulares são conjugados a partir de um algoritmo, enquanto os irregulares com ajuda de uma lista pronta com mais de 163 verbos conhecidos. Não é exigido que o verbo seja "oficial", bastando ser conjugável, portanto também é possível conjugar verbos como *twittar*, *forkar*, *photoshopar*, etc.
 
 ## Licença
 
