@@ -13,14 +13,12 @@ var irregulares = require("./lib/irregulares");
  */
 function conjugar(verbo) {
   if (ehUmVerbo(verbo)) {
-    if (ehIrregular(verbo)) {
-      return irregulares[verbo];
-    } else {
-      return construir(verbo);
-    }
-  } else {
-    throw new Error("Verbo inválido.");
+    return ehIrregular(verbo)
+      ? irregulares[verbo]
+      : construir(verbo);
   }
+
+  throw new Error("Verbo inválido.");
 }
 
 module.exports = conjugar;
