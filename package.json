@@ -4,14 +4,7 @@
   "description": "Um conjugador de verbos da língua portuguesa.",
   "main": "src/index.js",
   "repository": "theuves/conjugador",
-  "devDependencies": {
-    "ava": "^0.15.2",
-    "browserify": "^13.0.1"
-  },
-  "scripts": {
-    "test": "ava -v",
-    "build": "browserify src/conjugador.js -s conjugar -o dist/conjugador.js"
-  },
+  "scripts": {},
   "author": "Matheus Alves",
   "license": "MIT"
 }
