@@ -2,6 +2,8 @@
 
 > Um conjugador de verbos da língua portuguesa.
 
+![Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)
+
 ## Características
 
 * Aceita verbos irregulares.
