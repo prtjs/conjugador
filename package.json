@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "repository": "theuves/conjugador",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "test": "jasmine test/**/*.js"
   },
   "author": "Matheus Alves",
   "license": "MIT",
