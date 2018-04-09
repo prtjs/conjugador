@@ -2,7 +2,7 @@
   "name": "conjugador",
   "version": "0.1.0",
   "description": "Um conjugador de verbos da língua portuguesa.",
-  "main": "src/index.js",
+  "main": "build/conjugador.min.js",
   "repository": "theuves/conjugador",
   "scripts": {
     "build": "webpack",
