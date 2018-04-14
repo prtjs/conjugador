@@ -7,9 +7,11 @@
  * @returns {Object} Verbo conjugado.
  */
 function er(prefixo) {
+  const ehCer = prefixo.substr(-1) === "c";
+
   return {
     presente: [
-      prefixo + "o",
+      (ehCer ? prefixo.replace(/.$/, "ç") : prefixo) + "o",
       prefixo + "es",
       prefixo + "e",
       prefixo + "emos",
