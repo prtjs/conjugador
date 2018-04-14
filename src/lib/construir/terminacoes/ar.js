@@ -7,6 +7,10 @@
  * @returns {Object} Verbo conjugado.
  */
 function ar(prefixo) {
+  var ehCar = prefixo.substr(-1) === "c";
+
+  console.log(prefixo.substr(-1));
+
   return {
     presente: [
       prefixo + "o",
@@ -25,7 +29,7 @@ function ar(prefixo) {
       prefixo + "avam"
     ],
     preteritoPerfeito: [
-      prefixo + "ei",
+      (ehCar ? prefixo.replace(/.$/, "qu") : prefixo) + "ei",
       prefixo + "aste",
       prefixo + "ou",
       prefixo + "amos",
