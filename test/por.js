@@ -1,6 +1,6 @@
 "use strict";
 
-const conjugar = require("../");
+const conjugar = require("../src");
 
 /**
  * PÔR
