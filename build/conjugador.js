@@ -1,5 +1,5 @@
 /*!
- * Conjugador.js v0.1.0
+ * Conjugador.js v0.1.1
  * (c) 2016-2018 Matheus Alves
  * License: MIT
  */
@@ -9,9 +9,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["Conjugador"] = factory();
+		exports["conjugar"] = factory();
 	else
-		root["Conjugador"] = factory();
+		root["conjugar"] = factory();
 })(typeof self !== 'undefined' ? self : this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -209,6 +209,10 @@ module.exports = analisar;
  * @returns {Object} Verbo conjugado.
  */
 function ar(prefixo) {
+  var ehCar = prefixo.substr(-1) === "c";
+
+  console.log(prefixo.substr(-1));
+
   return {
     presente: [
       prefixo + "o",
@@ -227,7 +231,7 @@ function ar(prefixo) {
       prefixo + "avam"
     ],
     preteritoPerfeito: [
-      prefixo + "ei",
+      (ehCar ? prefixo.replace(/.$/, "qu") : prefixo) + "ei",
       prefixo + "aste",
       prefixo + "ou",
       prefixo + "amos",
@@ -278,9 +282,11 @@ module.exports = ar;
  * @returns {Object} Verbo conjugado.
  */
 function er(prefixo) {
+  const ehCer = prefixo.substr(-1) === "c";
+
   return {
     presente: [
-      prefixo + "o",
+      (ehCer ? prefixo.replace(/.$/, "ç") : prefixo) + "o",
       prefixo + "es",
       prefixo + "e",
       prefixo + "emos",
