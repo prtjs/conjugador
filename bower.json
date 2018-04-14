@@ -5,11 +5,9 @@
   "main": "dist/conjugador.min.js",
   "repository": "theuves/conjugador",
   "ignore": [
-    "src/",
-    "test/",
-    ".editorconfig",
-    ".gitignore",
-    ".npmignore",
+    "src",
+    "test",
+    "**/.*",
     "package.json"
   ],
   "authors": [{
