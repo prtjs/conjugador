@@ -3,9 +3,8 @@
 /**
  * Verifica se um verbo é valido.
  *
- * @param {String} verb Verbo que será verificado.
- * @returns {Boolean}
- *
+ * @param {string} verb Verbo que será verificado.
+ * @returns {boolean} Verificação do verbo.
  * @example
  * isVerb('amar'); // true
  * isVerb('heloisa'); // false

@@ -8,7 +8,7 @@ var irregularsList = require('./irregulars-list');
  * Não entenderá verbos terminados em -pôr como irregular.
  *
  * @param {string} verb Verbo que será verificado.
- * @returns {boolean}
+ * @returns {boolean} Verificação do verbo.
  * @example
  * isIrregular('ser') // true
  * isIrregular('amar') // false

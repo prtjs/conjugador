@@ -25,7 +25,7 @@ module.exports = {
     minimize: false
   },
   plugins: [
-    new UglifyJsPlugin({
+    new UglifyjsPlugin({
       include: /\.min\.js$/,
       uglifyOptions: {
         output: {

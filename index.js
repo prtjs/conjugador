@@ -11,7 +11,7 @@ var isVerb = require('./src/is-verb');
  * @param {string} verb Um verbo qualquer.
  * @returns {object} Toda as conjugações.
  */
-function conjugate(verb) {
+module.exports = function conjugate(verb) {
   if (!isVerb(verb)) {
     throw new Error('Invalid verb');
   }
@@ -20,5 +20,3 @@ function conjugate(verb) {
     ? irregularsList[verb]
     : build(verb);
 }
-
-module.exports = conjugate;
