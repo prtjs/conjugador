@@ -1,34 +1,38 @@
-"use strict";
+'use strict';
 
-const path = require("path");
-const {UglifyJsPlugin} = require("webpack").optimize;
-const {BannerPlugin} = require("webpack");
-const join = array => array.join("\n");
-const year = (new Date()).getFullYear();
-const pkg = require("./package");
-const version = pkg.version;
-const license = pkg.license;
-const author = pkg.author;
+const path = require('path');
+const UglifyjsPlugin = require('uglifyjs-webpack-plugin');
+const { BannerPlugin } = require('webpack');
+const { version, license, author } = require('./package');
+
+const banner = `Conjugador.js v${version} | ${license} (c) 2016-${(new Date()).getFullYear()} by ${author}`;
 
 module.exports = {
   entry: {
-    "conjugador": "./src/index.js",
-    "conjugador.min": "./src/index.js"
+    'conjugador': './src/index.js',
+    'conjugador.min': './src/index.js'
   },
   output: {
-    filename: "[name].js",
-    path: path.resolve(__dirname, "dist"),
-    library: "conjugar",
-    libraryTarget: "umd"
+    filename: '[name].js',
+    path: path.resolve(__dirname, 'dist'),
+    library: 'conjugar',
+    libraryTarget: 'umd',
+
+    // Para resolver um problema com o Webpack 4 (webpack#6522).
+    globalObject: `typeof self !== 'undefined' ? self : this`
+  },
+  optimization: {
+    minimize: false
   },
   plugins: [
     new UglifyJsPlugin({
-      include: /\.min\.js$/
+      include: /\.min\.js$/,
+      uglifyOptions: {
+        output: {
+          comments: false
+        }
+      }
     }),
-    new BannerPlugin(join([
-      `Conjugador.js v${version}`,
-      `(c) 2016-${year} ${author}`,
-      `License: ${license}`
-    ]))
+    new BannerPlugin(banner)
   ]
 };
