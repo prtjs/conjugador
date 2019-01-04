@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-const conjugar = require("../src");
+const conjugate = require('../index');
 
 /**
  * AMAR
@@ -8,56 +8,56 @@ const conjugar = require("../src");
  *
  * Testa os verbos regulares terminados em -ar.
  */
-describe("sufixo -ar:", () => {
-  it("deve conjugar o verbo 'amar'", () => {
-    expect(conjugar("amar")).toEqual({
-      "presente": [
-        "amo",
-        "amas",
-        "ama",
-        "amamos",
-        "amais",
-        "amam"
+describe('Sufixo -ar:', () => {
+  it('Deve conjugar o verbo "amar"', () => {
+    expect(conjugate('amar')).toEqual({
+      p: [
+        'amo',
+        'amas',
+        'ama',
+        'amamos',
+        'amais',
+        'amam'
       ],
-      "preteritoImperfeito": [
-        "amava",
-        "amavas",
-        "amava",
-        "amávamos",
-        "amáveis",
-        "amavam"
+      pi: [
+        'amava',
+        'amavas',
+        'amava',
+        'amávamos',
+        'amáveis',
+        'amavam'
       ],
-      "preteritoPerfeito": [
-        "amei",
-        "amaste",
-        "amou",
-        "amamos",
-        "amastes",
-        "amaram"
+      pp: [
+        'amei',
+        'amaste',
+        'amou',
+        'amamos',
+        'amastes',
+        'amaram'
       ],
-      "preteritoMaisQuePerfeito": [
-        "amara",
-        "amaras",
-        "amara",
-        "amáramos",
-        "amáreis",
-        "amaram"
+      pmqp: [
+        'amara',
+        'amaras',
+        'amara',
+        'amáramos',
+        'amáreis',
+        'amaram'
       ],
-      "futuroDoPresente": [
-        "amarei",
-        "amarás",
-        "amará",
-        "amaremos",
-        "amareis",
-        "amarão"
+      fpte: [
+        'amarei',
+        'amarás',
+        'amará',
+        'amaremos',
+        'amareis',
+        'amarão'
       ],
-      "futuroDoPreterito": [
-        "amaria",
-        "amarias",
-        "amaria",
-        "amaríamos",
-        "amaríeis",
-        "amariam"
+      fpto: [
+        'amaria',
+        'amarias',
+        'amaria',
+        'amaríamos',
+        'amaríeis',
+        'amariam'
       ]
     });
   });

@@ -1,6 +1,6 @@
 {
   "abaular": {
-    "presente": [
+    "p": [
       "abaúlo",
       "abaúlas",
       "abaúla",
@@ -8,7 +8,7 @@
       "abaulais",
       "abaúlam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "abaulava",
       "abaulavas",
       "abaulava",
@@ -16,7 +16,7 @@
       "abauláveis",
       "abaulavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "abaulei",
       "abaulaste",
       "abaulou",
@@ -24,7 +24,7 @@
       "abaulastes",
       "abaularam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "abaulara",
       "abaularas",
       "abaulara",
@@ -32,7 +32,7 @@
       "abauláreis",
       "abaularam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "abaularei",
       "abaularás",
       "abaulará",
@@ -40,7 +40,7 @@
       "abaulareis",
       "abaularão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "abaularia",
       "abaularias",
       "abaularia",
@@ -50,7 +50,7 @@
     ]
   },
   "abolir": {
-    "presente": [
+    "p": [
       "abulo",
       "aboles",
       "abole",
@@ -58,7 +58,7 @@
       "abolis",
       "abolem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "abolia",
       "abolias",
       "abolia",
@@ -66,7 +66,7 @@
       "abolíeis",
       "aboliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "aboli",
       "aboliste",
       "aboliu",
@@ -74,7 +74,7 @@
       "abolistes",
       "aboliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "abolira",
       "aboliras",
       "abolira",
@@ -82,7 +82,7 @@
       "abolíreis",
       "aboliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "abolirei",
       "abolirás",
       "abolirá",
@@ -90,7 +90,7 @@
       "abolireis",
       "abolirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "aboliria",
       "abolirias",
       "aboliria",
@@ -100,7 +100,7 @@
     ]
   },
   "abster": {
-    "presente": [
+    "p": [
       "abstenho",
       "absténs",
       "abstém",
@@ -108,7 +108,7 @@
       "abstendes",
       "abstêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "abstinha",
       "abstinhas",
       "abstinha",
@@ -116,7 +116,7 @@
       "abstínheis",
       "abstinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "abstive",
       "abstiveste",
       "absteve",
@@ -124,7 +124,7 @@
       "abstivestes",
       "abstiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "abstivera",
       "abstiveras",
       "abstivera",
@@ -132,7 +132,7 @@
       "abstivéreis",
       "abstiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "absterei",
       "absterás",
       "absterá",
@@ -140,7 +140,7 @@
       "abstereis",
       "absterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "absteria",
       "absterias",
       "absteria",
@@ -150,7 +150,7 @@
     ]
   },
   "acudir": {
-    "presente": [
+    "p": [
       "acudo",
       "acodes",
       "acode",
@@ -158,7 +158,7 @@
       "acudis",
       "acodem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "acudia",
       "acudias",
       "acudia",
@@ -166,7 +166,7 @@
       "acudíeis",
       "acudiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "acudi",
       "acudiste",
       "acudiu",
@@ -174,7 +174,7 @@
       "acudistes",
       "acudiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "acudira",
       "acudiras",
       "acudira",
@@ -182,7 +182,7 @@
       "acudíreis",
       "acudiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "acudirei",
       "acudirás",
       "acudirá",
@@ -190,7 +190,7 @@
       "acudireis",
       "acudirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "acudiria",
       "acudirias",
       "acudiria",
@@ -200,7 +200,7 @@
     ]
   },
   "adequar": {
-    "presente": [
+    "p": [
       "adequo",
       "adequas",
       "adequa",
@@ -208,7 +208,7 @@
       "adequais",
       "adequam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "adequava",
       "adequavas",
       "adequava",
@@ -216,7 +216,7 @@
       "adequáveis",
       "adequavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "adequei",
       "adequaste",
       "adequou",
@@ -224,7 +224,7 @@
       "adequastes",
       "adequaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "adequara",
       "adequaras",
       "adequara",
@@ -232,7 +232,7 @@
       "adequáreis",
       "adequaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "adequarei",
       "adequarás",
       "adequará",
@@ -240,7 +240,7 @@
       "adequareis",
       "adequarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "adequaria",
       "adequarias",
       "adequaria",
@@ -250,7 +250,7 @@
     ]
   },
   "advertir": {
-    "presente": [
+    "p": [
       "advirto",
       "advertes",
       "adverte",
@@ -258,7 +258,7 @@
       "advertis",
       "advertem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "advertia",
       "advertias",
       "advertia",
@@ -266,7 +266,7 @@
       "advertíeis",
       "advertiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "adverti",
       "advertiste",
       "advertiu",
@@ -274,7 +274,7 @@
       "advertistes",
       "advertiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "advertira",
       "advertiras",
       "advertira",
@@ -282,7 +282,7 @@
       "advertíreis",
       "advertiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "advertirei",
       "advertirás",
       "advertirá",
@@ -290,7 +290,7 @@
       "advertireis",
       "advertirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "advertiria",
       "advertirias",
       "advertiria",
@@ -300,7 +300,7 @@
     ]
   },
   "advir": {
-    "presente": [
+    "p": [
       "advenho",
       "advéns",
       "advém",
@@ -308,7 +308,7 @@
       "advindes",
       "advêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "advinha",
       "advinhas",
       "advinha",
@@ -316,7 +316,7 @@
       "advínheis",
       "advinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "advim",
       "advieste",
       "adveio",
@@ -324,7 +324,7 @@
       "adviestes",
       "advieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "adviera",
       "advieras",
       "adviera",
@@ -332,7 +332,7 @@
       "adviéreis",
       "advieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "advirei",
       "advirás",
       "advirá",
@@ -340,7 +340,7 @@
       "advireis",
       "advirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "adviria",
       "advirias",
       "adviria",
@@ -350,7 +350,7 @@
     ]
   },
   "agredir": {
-    "presente": [
+    "p": [
       "agrido",
       "agrides",
       "agride",
@@ -358,7 +358,7 @@
       "agredis",
       "agridem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "agredia",
       "agredias",
       "agredia",
@@ -366,7 +366,7 @@
       "agredíeis",
       "agrediam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "agredi",
       "agrediste",
       "agrediu",
@@ -374,7 +374,7 @@
       "agredistes",
       "agrediram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "agredira",
       "agrediras",
       "agredira",
@@ -382,7 +382,7 @@
       "agredíreis",
       "agrediram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "agredirei",
       "agredirás",
       "agredirá",
@@ -390,7 +390,7 @@
       "agredireis",
       "agredirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "agrediria",
       "agredirias",
       "agrediria",
@@ -400,7 +400,7 @@
     ]
   },
   "aguar": {
-    "presente": [
+    "p": [
       "aguo",
       "aguas",
       "agua",
@@ -408,7 +408,7 @@
       "aguais",
       "aguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "aguava",
       "aguavas",
       "aguava",
@@ -416,7 +416,7 @@
       "aguáveis",
       "aguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "aguei",
       "aguaste",
       "aguou",
@@ -424,7 +424,7 @@
       "aguastes",
       "aguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "aguara",
       "aguaras",
       "aguara",
@@ -432,7 +432,7 @@
       "aguáreis",
       "aguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "aguarei",
       "aguarás",
       "aguará",
@@ -440,7 +440,7 @@
       "aguareis",
       "aguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "aguaria",
       "aguarias",
       "aguaria",
@@ -450,7 +450,7 @@
     ]
   },
   "ajuizar": {
-    "presente": [
+    "p": [
       "ajuízo",
       "ajuízas",
       "ajuíza",
@@ -458,7 +458,7 @@
       "ajuizais",
       "ajuízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "ajuizava",
       "ajuizavas",
       "ajuizava",
@@ -466,7 +466,7 @@
       "ajuizáveis",
       "ajuizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "ajuizei",
       "ajuizaste",
       "ajuizou",
@@ -474,7 +474,7 @@
       "ajuizastes",
       "ajuizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "ajuizara",
       "ajuizaras",
       "ajuizara",
@@ -482,7 +482,7 @@
       "ajuizáreis",
       "ajuizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "ajuizarei",
       "ajuizarás",
       "ajuizará",
@@ -490,7 +490,7 @@
       "ajuizareis",
       "ajuizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "ajuizaria",
       "ajuizarias",
       "ajuizaria",
@@ -500,7 +500,7 @@
     ]
   },
   "amiudar": {
-    "presente": [
+    "p": [
       "amiúdo",
       "amiúdas",
       "amiúda",
@@ -508,7 +508,7 @@
       "amiudais",
       "amiúdam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "amiudava",
       "amiudavas",
       "amiudava",
@@ -516,7 +516,7 @@
       "amiudáveis",
       "amiudavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "amiudei",
       "amiudaste",
       "amiudou",
@@ -524,7 +524,7 @@
       "amiudastes",
       "amiudaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "amiudara",
       "amiudaras",
       "amiudara",
@@ -532,7 +532,7 @@
       "amiudáreis",
       "amiudaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "amiudarei",
       "amiudarás",
       "amiudará",
@@ -540,7 +540,7 @@
       "amiudareis",
       "amiudarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "amiudaria",
       "amiudarias",
       "amiudaria",
@@ -550,7 +550,7 @@
     ]
   },
   "ansiar": {
-    "presente": [
+    "p": [
       "anseio",
       "anseias",
       "anseia",
@@ -558,7 +558,7 @@
       "ansiais",
       "anseiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "ansiava",
       "ansiavas",
       "ansiava",
@@ -566,7 +566,7 @@
       "ansiáveis",
       "ansiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "ansiei",
       "ansiaste",
       "ansiou",
@@ -574,7 +574,7 @@
       "ansiastes",
       "ansiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "ansiara",
       "ansiaras",
       "ansiara",
@@ -582,7 +582,7 @@
       "ansiáreis",
       "ansiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "ansiarei",
       "ansiarás",
       "ansiará",
@@ -590,7 +590,7 @@
       "ansiareis",
       "ansiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "ansiaria",
       "ansiarias",
       "ansiaria",
@@ -600,7 +600,7 @@
     ]
   },
   "antever": {
-    "presente": [
+    "p": [
       "antevejo",
       "antevês",
       "antevê",
@@ -608,7 +608,7 @@
       "anteveis",
       "antevêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "antevia",
       "antevias",
       "antevia",
@@ -616,7 +616,7 @@
       "antevíeis",
       "anteviam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "antevi",
       "anteviste",
       "anteviu",
@@ -624,7 +624,7 @@
       "antevistes",
       "anteviram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "antevira",
       "anteviras",
       "antevira",
@@ -632,7 +632,7 @@
       "antevíreis",
       "anteviram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "anteverei",
       "anteverás",
       "anteverá",
@@ -640,7 +640,7 @@
       "antevereis",
       "anteverão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "anteveria",
       "anteverias",
       "anteveria",
@@ -650,7 +650,7 @@
     ]
   },
   "antiquar": {
-    "presente": [
+    "p": [
       "antiquo",
       "antiquas",
       "antiqua",
@@ -658,7 +658,7 @@
       "antiquais",
       "antiquam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "antiquava",
       "antiquavas",
       "antiquava",
@@ -666,7 +666,7 @@
       "antiquáveis",
       "antiquavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "antiquei",
       "antiquaste",
       "antiquou",
@@ -674,7 +674,7 @@
       "antiquastes",
       "antiquaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "antiquara",
       "antiquaras",
       "antiquara",
@@ -682,7 +682,7 @@
       "antiquáreis",
       "antiquaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "antiquarei",
       "antiquarás",
       "antiquará",
@@ -690,7 +690,7 @@
       "antiquareis",
       "antiquarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "antiquaria",
       "antiquarias",
       "antiquaria",
@@ -700,7 +700,7 @@
     ]
   },
   "apaniguar": {
-    "presente": [
+    "p": [
       "apaniguo",
       "apaniguas",
       "apanigua",
@@ -708,7 +708,7 @@
       "apaniguais",
       "apaniguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "apaniguava",
       "apaniguavas",
       "apaniguava",
@@ -716,7 +716,7 @@
       "apaniguáveis",
       "apaniguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "apaniguei",
       "apaniguaste",
       "apaniguou",
@@ -724,7 +724,7 @@
       "apaniguastes",
       "apaniguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "apaniguara",
       "apaniguaras",
       "apaniguara",
@@ -732,7 +732,7 @@
       "apaniguáreis",
       "apaniguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "apaniguarei",
       "apaniguarás",
       "apaniguará",
@@ -740,7 +740,7 @@
       "apaniguareis",
       "apaniguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "apaniguaria",
       "apaniguarias",
       "apaniguaria",
@@ -750,7 +750,7 @@
     ]
   },
   "apaziguar": {
-    "presente": [
+    "p": [
       "apaziguo",
       "apaziguas",
       "apazigua",
@@ -758,7 +758,7 @@
       "apaziguais",
       "apaziguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "apaziguava",
       "apaziguavas",
       "apaziguava",
@@ -766,7 +766,7 @@
       "apaziguáveis",
       "apaziguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "apaziguei",
       "apaziguaste",
       "apaziguou",
@@ -774,7 +774,7 @@
       "apaziguastes",
       "apaziguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "apaziguara",
       "apaziguaras",
       "apaziguara",
@@ -782,7 +782,7 @@
       "apaziguáreis",
       "apaziguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "apaziguarei",
       "apaziguarás",
       "apaziguará",
@@ -790,7 +790,7 @@
       "apaziguareis",
       "apaziguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "apaziguaria",
       "apaziguarias",
       "apaziguaria",
@@ -800,7 +800,7 @@
     ]
   },
   "aprazer": {
-    "presente": [
+    "p": [
       "aprazo",
       "aprazes",
       "apraz",
@@ -808,7 +808,7 @@
       "aprazeis",
       "aprazem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "aprazia",
       "aprazias",
       "aprazia",
@@ -816,7 +816,7 @@
       "aprazíeis",
       "apraziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "aprouve",
       "aprouveste",
       "aprouve",
@@ -824,7 +824,7 @@
       "aprouvestes",
       "aprouveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "aprouvera",
       "aprouveras",
       "aprouvera",
@@ -832,7 +832,7 @@
       "aprouvéreis",
       "aprouveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "aprazerei",
       "aprazerás",
       "aprazerá",
@@ -840,7 +840,7 @@
       "aprazereis",
       "aprazerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "aprazeria",
       "aprazerias",
       "aprazeria",
@@ -850,7 +850,7 @@
     ]
   },
   "arguir": {
-    "presente": [
+    "p": [
       "arguo",
       "argúis",
       "argúi",
@@ -858,7 +858,7 @@
       "arguis",
       "argúem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "arguia",
       "arguias",
       "arguia",
@@ -866,7 +866,7 @@
       "arguíeis",
       "arguiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "argui",
       "arguiste",
       "arguiu",
@@ -874,7 +874,7 @@
       "arguistes",
       "arguiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "arguira",
       "arguiras",
       "arguira",
@@ -882,7 +882,7 @@
       "arguíreis",
       "arguiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "arguirei",
       "arguirás",
       "arguirá",
@@ -890,7 +890,7 @@
       "arguireis",
       "arguirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "arguiria",
       "arguirias",
       "arguiria",
@@ -900,7 +900,7 @@
     ]
   },
   "arruinar": {
-    "presente": [
+    "p": [
       "arruíno",
       "arruínas",
       "arruína",
@@ -908,7 +908,7 @@
       "arruinais",
       "arruínam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "arruinava",
       "arruinavas",
       "arruinava",
@@ -916,7 +916,7 @@
       "arruináveis",
       "arruinavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "arruinei",
       "arruinaste",
       "arruinou",
@@ -924,7 +924,7 @@
       "arruinastes",
       "arruinaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "arruinara",
       "arruinaras",
       "arruinara",
@@ -932,7 +932,7 @@
       "arruináreis",
       "arruinaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "arruinarei",
       "arruinarás",
       "arruinará",
@@ -940,7 +940,7 @@
       "arruinareis",
       "arruinarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "arruinaria",
       "arruinarias",
       "arruinaria",
@@ -950,7 +950,7 @@
     ]
   },
   "assentir": {
-    "presente": [
+    "p": [
       "assinto",
       "assentes",
       "assente",
@@ -958,7 +958,7 @@
       "assentis",
       "assentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "assentia",
       "assentias",
       "assentia",
@@ -966,7 +966,7 @@
       "assentíeis",
       "assentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "assenti",
       "assentiste",
       "assentiu",
@@ -974,7 +974,7 @@
       "assentistes",
       "assentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "assentira",
       "assentiras",
       "assentira",
@@ -982,7 +982,7 @@
       "assentíreis",
       "assentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "assentirei",
       "assentirás",
       "assentirá",
@@ -990,7 +990,7 @@
       "assentireis",
       "assentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "assentiria",
       "assentirias",
       "assentiria",
@@ -1000,7 +1000,7 @@
     ]
   },
   "averiguar": {
-    "presente": [
+    "p": [
       "averiguo",
       "averiguas",
       "averigua",
@@ -1008,7 +1008,7 @@
       "averiguais",
       "averiguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "averiguava",
       "averiguavas",
       "averiguava",
@@ -1016,7 +1016,7 @@
       "averiguáveis",
       "averiguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "averiguei",
       "averiguaste",
       "averiguou",
@@ -1024,7 +1024,7 @@
       "averiguastes",
       "averiguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "averiguara",
       "averiguaras",
       "averiguara",
@@ -1032,7 +1032,7 @@
       "averiguáreis",
       "averiguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "averiguarei",
       "averiguarás",
       "averiguará",
@@ -1040,7 +1040,7 @@
       "averiguareis",
       "averiguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "averiguaria",
       "averiguarias",
       "averiguaria",
@@ -1050,7 +1050,7 @@
     ]
   },
   "avir": {
-    "presente": [
+    "p": [
       "avenho",
       "avéns",
       "avém",
@@ -1058,7 +1058,7 @@
       "avindes",
       "avêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "avinha",
       "avinhas",
       "avinha",
@@ -1066,7 +1066,7 @@
       "avínheis",
       "avinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "avim",
       "avieste",
       "aveio",
@@ -1074,7 +1074,7 @@
       "aviestes",
       "avieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "aviera",
       "avieras",
       "aviera",
@@ -1082,7 +1082,7 @@
       "aviéreis",
       "avieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "avirei",
       "avirás",
       "avirá",
@@ -1090,7 +1090,7 @@
       "avireis",
       "avirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "aviria",
       "avirias",
       "aviria",
@@ -1100,7 +1100,7 @@
     ]
   },
   "boiar": {
-    "presente": [
+    "p": [
       "bóio",
       "bóias",
       "bóia",
@@ -1108,7 +1108,7 @@
       "boiais",
       "bóiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "boiava",
       "boiavas",
       "boiava",
@@ -1116,7 +1116,7 @@
       "boiáveis",
       "boiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "boiei",
       "boiaste",
       "boiou",
@@ -1124,7 +1124,7 @@
       "boiastes",
       "boiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "boiara",
       "boiaras",
       "boiara",
@@ -1132,7 +1132,7 @@
       "boiáreis",
       "boiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "boiarei",
       "boiarás",
       "boiará",
@@ -1140,7 +1140,7 @@
       "boiareis",
       "boiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "boiaria",
       "boiarias",
       "boiaria",
@@ -1150,7 +1150,7 @@
     ]
   },
   "bulir": {
-    "presente": [
+    "p": [
       "bulo",
       "boles",
       "bole",
@@ -1158,7 +1158,7 @@
       "bulis",
       "bolem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "bulia",
       "bulias",
       "bulia",
@@ -1166,7 +1166,7 @@
       "bulíeis",
       "buliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "buli",
       "buliste",
       "buliu",
@@ -1174,7 +1174,7 @@
       "bulistes",
       "buliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "bulira",
       "buliras",
       "bulira",
@@ -1182,7 +1182,7 @@
       "bulíreis",
       "buliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "bulirei",
       "bulirás",
       "bulirá",
@@ -1190,7 +1190,7 @@
       "bulireis",
       "bulirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "buliria",
       "bulirias",
       "buliria",
@@ -1200,7 +1200,7 @@
     ]
   },
   "caber": {
-    "presente": [
+    "p": [
       "caibo",
       "cabes",
       "cabe",
@@ -1208,7 +1208,7 @@
       "cabeis",
       "cabem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "cabia",
       "cabias",
       "cabia",
@@ -1216,7 +1216,7 @@
       "cabíeis",
       "cabiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "coube",
       "coubeste",
       "coube",
@@ -1224,7 +1224,7 @@
       "coubestes",
       "couberam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "coubera",
       "couberas",
       "coubera",
@@ -1232,7 +1232,7 @@
       "coubéreis",
       "couberam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "caberei",
       "caberás",
       "caberá",
@@ -1240,7 +1240,7 @@
       "cabereis",
       "caberão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "caberia",
       "caberias",
       "caberia",
@@ -1250,7 +1250,7 @@
     ]
   },
   "cerzir": {
-    "presente": [
+    "p": [
       "cirzo",
       "cirzes",
       "cirze",
@@ -1258,7 +1258,7 @@
       "cerzis",
       "cirzem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "cerzia",
       "cerzias",
       "cerzia",
@@ -1266,7 +1266,7 @@
       "cerzíeis",
       "cerziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "cerzi",
       "cerziste",
       "cerziu",
@@ -1274,7 +1274,7 @@
       "cerzistes",
       "cerziram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "cerzira",
       "cerziras",
       "cerzira",
@@ -1282,7 +1282,7 @@
       "cerzíreis",
       "cerziram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "cerzirei",
       "cerzirás",
       "cerzirá",
@@ -1290,7 +1290,7 @@
       "cerzireis",
       "cerzirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "cerziria",
       "cerzirias",
       "cerziria",
@@ -1300,7 +1300,7 @@
     ]
   },
   "cobrir": {
-    "presente": [
+    "p": [
       "cubro",
       "cobres",
       "cobre",
@@ -1308,7 +1308,7 @@
       "cobris",
       "cobrem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "cobria",
       "cobrias",
       "cobria",
@@ -1316,7 +1316,7 @@
       "cobríeis",
       "cobriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "cobri",
       "cobriste",
       "cobriu",
@@ -1324,7 +1324,7 @@
       "cobristes",
       "cobriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "cobrira",
       "cobriras",
       "cobrira",
@@ -1332,7 +1332,7 @@
       "cobríreis",
       "cobriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "cobrirei",
       "cobrirás",
       "cobrirá",
@@ -1340,7 +1340,7 @@
       "cobrireis",
       "cobrirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "cobriria",
       "cobririas",
       "cobriria",
@@ -1350,7 +1350,7 @@
     ]
   },
   "coibir": {
-    "presente": [
+    "p": [
       "coíbo",
       "coíbes",
       "coíbe",
@@ -1358,7 +1358,7 @@
       "coibis",
       "coíbem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "coibia",
       "coibias",
       "coibia",
@@ -1366,7 +1366,7 @@
       "coibíeis",
       "coibiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "coibi",
       "coibiste",
       "coibiu",
@@ -1374,7 +1374,7 @@
       "coibistes",
       "coibiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "coibira",
       "coibiras",
       "coibira",
@@ -1382,7 +1382,7 @@
       "coibíreis",
       "coibiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "coibirei",
       "coibirás",
       "coibirá",
@@ -1390,7 +1390,7 @@
       "coibireis",
       "coibirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "coibiria",
       "coibirias",
       "coibiria",
@@ -1400,7 +1400,7 @@
     ]
   },
   "colorir": {
-    "presente": [
+    "p": [
       "coluro",
       "colores",
       "colore",
@@ -1408,7 +1408,7 @@
       "coloris",
       "colorem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "coloria",
       "colorias",
       "coloria",
@@ -1416,7 +1416,7 @@
       "coloríeis",
       "coloriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "colori",
       "coloriste",
       "coloriu",
@@ -1424,7 +1424,7 @@
       "coloristes",
       "coloriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "colorira",
       "coloriras",
       "colorira",
@@ -1432,7 +1432,7 @@
       "coloríreis",
       "coloriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "colorirei",
       "colorirás",
       "colorirá",
@@ -1440,7 +1440,7 @@
       "colorireis",
       "colorirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "coloriria",
       "coloririas",
       "coloriria",
@@ -1450,7 +1450,7 @@
     ]
   },
   "comerciar": {
-    "presente": [
+    "p": [
       "comerceio/comercio",
       "comerceias/comercias",
       "comerceia/comercia",
@@ -1458,7 +1458,7 @@
       "comerciais",
       "comerciam/comerceiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "comerciava",
       "comerciavas",
       "comerciava",
@@ -1466,7 +1466,7 @@
       "comerciáveis",
       "comerciavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "comerciei",
       "comerciaste",
       "comerciou",
@@ -1474,7 +1474,7 @@
       "comerciastes",
       "comerciaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "comerciara",
       "comerciaras",
       "comerciara",
@@ -1482,7 +1482,7 @@
       "comerciáreis",
       "comerciaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "comerciarei",
       "comerciarás",
       "comerciará",
@@ -1490,7 +1490,7 @@
       "comerciareis",
       "comerciarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "comerciaria",
       "comerciarias",
       "comerciaria",
@@ -1500,7 +1500,7 @@
     ]
   },
   "compelir": {
-    "presente": [
+    "p": [
       "compilo",
       "compeles",
       "compele",
@@ -1508,7 +1508,7 @@
       "compelis",
       "compelem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "compelia",
       "compelias",
       "compelia",
@@ -1516,7 +1516,7 @@
       "compelíeis",
       "compeliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "compeli",
       "compeliste",
       "compeliu",
@@ -1524,7 +1524,7 @@
       "compelistes",
       "compeliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "compelira",
       "compeliras",
       "compelira",
@@ -1532,7 +1532,7 @@
       "compelíreis",
       "compeliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "compelirei",
       "compelirás",
       "compelirá",
@@ -1540,7 +1540,7 @@
       "compelireis",
       "compelirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "compeliria",
       "compelirias",
       "compeliria",
@@ -1550,7 +1550,7 @@
     ]
   },
   "competir": {
-    "presente": [
+    "p": [
       "compito",
       "competes",
       "compete",
@@ -1558,7 +1558,7 @@
       "competis",
       "competem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "competia",
       "competias",
       "competia",
@@ -1566,7 +1566,7 @@
       "competíeis",
       "competiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "competi",
       "competiste",
       "competiu",
@@ -1574,7 +1574,7 @@
       "competistes",
       "competiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "competira",
       "competiras",
       "competira",
@@ -1582,7 +1582,7 @@
       "competíreis",
       "competiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "competirei",
       "competirás",
       "competirá",
@@ -1590,7 +1590,7 @@
       "competireis",
       "competirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "competiria",
       "competirias",
       "competiria",
@@ -1600,7 +1600,7 @@
     ]
   },
   "comprazer": {
-    "presente": [
+    "p": [
       "comprazo",
       "comprazes",
       "compraz",
@@ -1608,7 +1608,7 @@
       "comprazeis",
       "comprazem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "comprazia",
       "comprazias",
       "comprazia",
@@ -1616,7 +1616,7 @@
       "comprazíeis",
       "compraziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "comprouve",
       "comprouveste",
       "comprouve",
@@ -1624,7 +1624,7 @@
       "comprouvestes",
       "comprouveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "comprouvera",
       "comprouveras",
       "comprouvera",
@@ -1632,7 +1632,7 @@
       "comprouvéreis",
       "comprouveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "comprazerei",
       "comprazerás",
       "comprazerá",
@@ -1640,7 +1640,7 @@
       "comprazereis",
       "comprazerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "comprazeria",
       "comprazerias",
       "comprazeria",
@@ -1650,7 +1650,7 @@
     ]
   },
   "concernir": {
-    "presente": [
+    "p": [
       "concirno",
       "concernes",
       "concerne",
@@ -1658,7 +1658,7 @@
       "concernis",
       "concernem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "concernia",
       "concernias",
       "concernia",
@@ -1666,7 +1666,7 @@
       "concerníeis",
       "concerniam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "concerni",
       "concerniste",
       "concerniu",
@@ -1674,7 +1674,7 @@
       "concernistes",
       "concerniram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "concernira",
       "concerniras",
       "concernira",
@@ -1682,7 +1682,7 @@
       "concerníreis",
       "concerniram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "concernirei",
       "concernirás",
       "concernirá",
@@ -1690,7 +1690,7 @@
       "concernireis",
       "concernirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "concerniria",
       "concernirias",
       "concerniria",
@@ -1700,7 +1700,7 @@
     ]
   },
   "conseguir": {
-    "presente": [
+    "p": [
       "consigo",
       "consegues",
       "consegue",
@@ -1708,7 +1708,7 @@
       "conseguis",
       "conseguem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "conseguia",
       "conseguias",
       "conseguia",
@@ -1716,7 +1716,7 @@
       "conseguíeis",
       "conseguiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "consegui",
       "conseguiste",
       "conseguiu",
@@ -1724,7 +1724,7 @@
       "conseguistes",
       "conseguiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "conseguira",
       "conseguiras",
       "conseguira",
@@ -1732,7 +1732,7 @@
       "conseguíreis",
       "conseguiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "conseguirei",
       "conseguirás",
       "conseguirá",
@@ -1740,7 +1740,7 @@
       "conseguireis",
       "conseguirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "conseguiria",
       "conseguirias",
       "conseguiria",
@@ -1750,7 +1750,7 @@
     ]
   },
   "consentir": {
-    "presente": [
+    "p": [
       "consinto",
       "consentes",
       "consente",
@@ -1758,7 +1758,7 @@
       "consentis",
       "consentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "consentia",
       "consentias",
       "consentia",
@@ -1766,7 +1766,7 @@
       "consentíeis",
       "consentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "consenti",
       "consentiste",
       "consentiu",
@@ -1774,7 +1774,7 @@
       "consentistes",
       "consentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "consentira",
       "consentiras",
       "consentira",
@@ -1782,7 +1782,7 @@
       "consentíreis",
       "consentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "consentirei",
       "consentirás",
       "consentirá",
@@ -1790,7 +1790,7 @@
       "consentireis",
       "consentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "consentiria",
       "consentirias",
       "consentiria",
@@ -1800,7 +1800,7 @@
     ]
   },
   "construir": {
-    "presente": [
+    "p": [
       "construo",
       "constróis",
       "constrói",
@@ -1808,7 +1808,7 @@
       "construís",
       "constroem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "construía",
       "construías",
       "construía",
@@ -1816,7 +1816,7 @@
       "construíeis",
       "construíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "construí",
       "construíste",
       "construiu",
@@ -1824,7 +1824,7 @@
       "construístes",
       "construíram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "construíra",
       "construíras",
       "construíra",
@@ -1832,7 +1832,7 @@
       "construíreis",
       "construíram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "construirei",
       "construirás",
       "construirá",
@@ -1840,7 +1840,7 @@
       "construireis",
       "construirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "construiria",
       "construirias",
       "construiria",
@@ -1850,7 +1850,7 @@
     ]
   },
   "consumir": {
-    "presente": [
+    "p": [
       "consumo",
       "consomes",
       "consome",
@@ -1858,7 +1858,7 @@
       "consumis",
       "consomem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "consumia",
       "consumias",
       "consumia",
@@ -1866,7 +1866,7 @@
       "consumíeis",
       "consumiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "consumi",
       "consumiste",
       "consumiu",
@@ -1874,7 +1874,7 @@
       "consumistes",
       "consumiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "consumira",
       "consumiras",
       "consumira",
@@ -1882,7 +1882,7 @@
       "consumíreis",
       "consumiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "consumirei",
       "consumirás",
       "consumirá",
@@ -1890,7 +1890,7 @@
       "consumireis",
       "consumirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "consumiria",
       "consumirias",
       "consumiria",
@@ -1900,7 +1900,7 @@
     ]
   },
   "conter": {
-    "presente": [
+    "p": [
       "contenho",
       "contens",
       "contém",
@@ -1908,7 +1908,7 @@
       "contendes",
       "contêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "continha",
       "continhas",
       "continha",
@@ -1916,7 +1916,7 @@
       "contínheis",
       "continham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "contive",
       "contiveste",
       "conteve",
@@ -1924,7 +1924,7 @@
       "contivestes",
       "contiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "contivera",
       "contiveras",
       "contivera",
@@ -1932,7 +1932,7 @@
       "contivéreis",
       "contiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "conterei",
       "conterás",
       "conterá",
@@ -1940,7 +1940,7 @@
       "contereis",
       "conterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "conteria",
       "conterias",
       "conteria",
@@ -1950,7 +1950,7 @@
     ]
   },
   "contiguar": {
-    "presente": [
+    "p": [
       "contiguo",
       "contiguas",
       "contigua",
@@ -1958,7 +1958,7 @@
       "contiguais",
       "contiguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "contiguava",
       "contiguavas",
       "contiguava",
@@ -1966,7 +1966,7 @@
       "contiguáveis",
       "contiguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "contiguei",
       "contiguaste",
       "contiguou",
@@ -1974,7 +1974,7 @@
       "contiguastes",
       "contiguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "contiguara",
       "contiguaras",
       "contiguara",
@@ -1982,7 +1982,7 @@
       "contiguáreis",
       "contiguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "contiguarei",
       "contiguarás",
       "contiguará",
@@ -1990,7 +1990,7 @@
       "contiguareis",
       "contiguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "contiguaria",
       "contiguarias",
       "contiguaria",
@@ -2000,7 +2000,7 @@
     ]
   },
   "contravir": {
-    "presente": [
+    "p": [
       "contravenho",
       "contravens",
       "contravem",
@@ -2008,7 +2008,7 @@
       "contravindes",
       "contravêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "contravinha",
       "contravinhas",
       "contravinha",
@@ -2016,7 +2016,7 @@
       "contravínheis",
       "contravinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "contravim",
       "contravieste",
       "contraveio",
@@ -2024,7 +2024,7 @@
       "contraviestes",
       "contravieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "contraviera",
       "contravieras",
       "contraviera",
@@ -2032,7 +2032,7 @@
       "contraviéreis",
       "contravieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "contravirei",
       "contravirás",
       "contravirá",
@@ -2040,7 +2040,7 @@
       "contravireis",
       "contravirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "contraviria",
       "contravirias",
       "contraviria",
@@ -2050,7 +2050,7 @@
     ]
   },
   "convir": {
-    "presente": [
+    "p": [
       "convenho",
       "convéns",
       "convém",
@@ -2058,7 +2058,7 @@
       "convindes",
       "convêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "convinha",
       "convinhas",
       "convinha",
@@ -2066,7 +2066,7 @@
       "convínheis",
       "convinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "convim",
       "convieste",
       "conveio",
@@ -2074,7 +2074,7 @@
       "conviestes",
       "convieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "conviera",
       "convieras",
       "conviera",
@@ -2082,7 +2082,7 @@
       "conviéreis",
       "convieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "convirei",
       "convirás",
       "convirá",
@@ -2090,7 +2090,7 @@
       "convireis",
       "convirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "conviria",
       "convirias",
       "conviria",
@@ -2100,7 +2100,7 @@
     ]
   },
   "corroer": {
-    "presente": [
+    "p": [
       "corroo",
       "corróis",
       "corrói",
@@ -2108,7 +2108,7 @@
       "corroeis",
       "corroem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "corroía",
       "corroías",
       "corroía",
@@ -2116,7 +2116,7 @@
       "corroíeis",
       "corroíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "corroí",
       "corroeste",
       "corroeu",
@@ -2124,7 +2124,7 @@
       "corroestes",
       "corroeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "corroera",
       "corroeras",
       "corroera",
@@ -2132,7 +2132,7 @@
       "corroêreis",
       "corroeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "corroerei",
       "corroerás",
       "corroerá",
@@ -2140,7 +2140,7 @@
       "corroereis",
       "corroerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "corroeria",
       "corroerias",
       "corroeria",
@@ -2150,7 +2150,7 @@
     ]
   },
   "crer": {
-    "presente": [
+    "p": [
       "creio",
       "crês",
       "crê",
@@ -2158,7 +2158,7 @@
       "credes",
       "crêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "cria",
       "crias",
       "cria",
@@ -2166,7 +2166,7 @@
       "críeis",
       "criam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "cri",
       "creste",
       "creu",
@@ -2174,7 +2174,7 @@
       "crestes",
       "creram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "crera",
       "creras",
       "crera",
@@ -2182,7 +2182,7 @@
       "crêreis",
       "creram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "crerei",
       "crerás",
       "crerá",
@@ -2190,7 +2190,7 @@
       "crereis",
       "crerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "creria",
       "crerias",
       "creria",
@@ -2200,7 +2200,7 @@
     ]
   },
   "cuspir": {
-    "presente": [
+    "p": [
       "cuspo",
       "cospes",
       "cospe",
@@ -2208,7 +2208,7 @@
       "cuspis",
       "cospem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "cuspia",
       "cuspias",
       "cuspia",
@@ -2216,7 +2216,7 @@
       "cuspíeis",
       "cuspiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "cuspi",
       "cuspiste",
       "cuspiu",
@@ -2224,7 +2224,7 @@
       "cuspistes",
       "cuspiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "cuspira",
       "cuspiras",
       "cuspira",
@@ -2232,7 +2232,7 @@
       "cuspíreis",
       "cuspiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "cuspirei",
       "cuspirás",
       "cuspirá",
@@ -2240,7 +2240,7 @@
       "cuspireis",
       "cuspirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "cuspiria",
       "cuspirias",
       "cuspiria",
@@ -2250,7 +2250,7 @@
     ]
   },
   "dar": {
-    "presente": [
+    "p": [
       "dou",
       "dás",
       "dá",
@@ -2258,7 +2258,7 @@
       "dais",
       "dão"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "dava",
       "davas",
       "dava",
@@ -2266,7 +2266,7 @@
       "dáveis",
       "davam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "dei",
       "deste",
       "deu",
@@ -2274,7 +2274,7 @@
       "destes",
       "deram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "dera",
       "deras",
       "dera",
@@ -2282,7 +2282,7 @@
       "déreis",
       "deram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "darei",
       "darás",
       "dará",
@@ -2290,7 +2290,7 @@
       "dareis",
       "darão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "daria",
       "darias",
       "daria",
@@ -2300,7 +2300,7 @@
     ]
   },
   "demolir": {
-    "presente": [
+    "p": [
       "demulo",
       "demoles",
       "demole",
@@ -2308,7 +2308,7 @@
       "demolis",
       "demolem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "demolia",
       "demolias",
       "demolia",
@@ -2316,7 +2316,7 @@
       "demolíeis",
       "demoliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "demoli",
       "demoliste",
       "demoliu",
@@ -2324,7 +2324,7 @@
       "demolistes",
       "demoliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "demolira",
       "demoliras",
       "demolira",
@@ -2332,7 +2332,7 @@
       "demolíreis",
       "demoliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "demolirei",
       "demolirás",
       "demolirá",
@@ -2340,7 +2340,7 @@
       "demolireis",
       "demolirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "demoliria",
       "demolirias",
       "demoliria",
@@ -2350,7 +2350,7 @@
     ]
   },
   "denegrir": {
-    "presente": [
+    "p": [
       "denigro",
       "denigres",
       "denigre",
@@ -2358,7 +2358,7 @@
       "denegris",
       "denigrem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "denegria",
       "denegrias",
       "denegria",
@@ -2366,7 +2366,7 @@
       "denegríeis",
       "denegriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "denegri",
       "denegriste",
       "denegriu",
@@ -2374,7 +2374,7 @@
       "denegristes",
       "denegriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "denegrira",
       "denegriras",
       "denegrira",
@@ -2382,7 +2382,7 @@
       "denegríreis",
       "denegriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "denegrirei",
       "denegrirás",
       "denegrirá",
@@ -2390,7 +2390,7 @@
       "denegrireis",
       "denegrirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "denegriria",
       "denegririas",
       "denegriria",
@@ -2400,7 +2400,7 @@
     ]
   },
   "desaguar": {
-    "presente": [
+    "p": [
       "desaguo",
       "desaguas",
       "desagua",
@@ -2408,7 +2408,7 @@
       "desaguais",
       "desaguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "desaguava",
       "desaguavas",
       "desaguava",
@@ -2416,7 +2416,7 @@
       "desaguáveis",
       "desaguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "desaguei",
       "desaguaste",
       "desaguou",
@@ -2424,7 +2424,7 @@
       "desaguastes",
       "desaguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "desaguara",
       "desaguaras",
       "desaguara",
@@ -2432,7 +2432,7 @@
       "desaguáreis",
       "desaguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "desaguarei",
       "desaguarás",
       "desaguará",
@@ -2440,7 +2440,7 @@
       "desaguareis",
       "desaguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "desaguaria",
       "desaguarias",
       "desaguaria",
@@ -2450,7 +2450,7 @@
     ]
   },
   "desavir": {
-    "presente": [
+    "p": [
       "desavenho",
       "desavéns",
       "desavém",
@@ -2458,7 +2458,7 @@
       "desavindes",
       "desavêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "desavinha",
       "desavinhas",
       "desavinha",
@@ -2466,7 +2466,7 @@
       "desavínheis",
       "desavinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "desavim",
       "desavieste",
       "desaveio",
@@ -2474,7 +2474,7 @@
       "desaviestes",
       "desavieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "desaviera",
       "desavieras",
       "desaviera",
@@ -2482,7 +2482,7 @@
       "desaviéreis",
       "desavieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "desavirei",
       "desavirás",
       "desavirá",
@@ -2490,7 +2490,7 @@
       "desavireis",
       "desavirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "desaviria",
       "desavirias",
       "desaviria",
@@ -2500,7 +2500,7 @@
     ]
   },
   "descaber": {
-    "presente": [
+    "p": [
       "descaibo",
       "descabes",
       "descabe",
@@ -2508,7 +2508,7 @@
       "descabeis",
       "descabem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "descabia",
       "descabias",
       "descabia",
@@ -2516,7 +2516,7 @@
       "descabíeis",
       "descabiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "descoube",
       "descoubeste",
       "descoube",
@@ -2524,7 +2524,7 @@
       "descoubestes",
       "descouberam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "descoubera",
       "descouberas",
       "descoubera",
@@ -2532,7 +2532,7 @@
       "descoubéreis",
       "descouberam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "descaberei",
       "descaberás",
       "descaberá",
@@ -2540,7 +2540,7 @@
       "descabereis",
       "descaberão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "descaberia",
       "descaberias",
       "descaberia",
@@ -2550,7 +2550,7 @@
     ]
   },
   "descobrir": {
-    "presente": [
+    "p": [
       "descubro",
       "descobres",
       "descobre",
@@ -2558,7 +2558,7 @@
       "descobris",
       "descobrem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "descobria",
       "descobrias",
       "descobria",
@@ -2566,7 +2566,7 @@
       "descobríeis",
       "descobriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "descobri",
       "descobriste",
       "descobriu",
@@ -2574,7 +2574,7 @@
       "descobristes",
       "descobriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "descobrira",
       "descobriras",
       "descobrira",
@@ -2582,7 +2582,7 @@
       "descobríreis",
       "descobriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "descobrirei",
       "descobrirás",
       "descobrirá",
@@ -2590,7 +2590,7 @@
       "descobrireis",
       "descobrirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "descobriria",
       "descobririas",
       "descobriria",
@@ -2600,7 +2600,7 @@
     ]
   },
   "desmentir": {
-    "presente": [
+    "p": [
       "desminto",
       "desmentes",
       "desmente",
@@ -2608,7 +2608,7 @@
       "desmentis",
       "desmentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "desmentia",
       "desmentias",
       "desmentia",
@@ -2616,7 +2616,7 @@
       "desmentíeis",
       "desmentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "desmenti",
       "desmentiste",
       "desmentiu",
@@ -2624,7 +2624,7 @@
       "desmentistes",
       "desmentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "desmentira",
       "desmentiras",
       "desmentira",
@@ -2632,7 +2632,7 @@
       "desmentíreis",
       "desmentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "desmentirei",
       "desmentirás",
       "desmentirá",
@@ -2640,7 +2640,7 @@
       "desmentireis",
       "desmentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "desmentiria",
       "desmentirias",
       "desmentiria",
@@ -2650,7 +2650,7 @@
     ]
   },
   "desmiudar": {
-    "presente": [
+    "p": [
       "desmiúdo",
       "desmiúdas",
       "desmiúda",
@@ -2658,7 +2658,7 @@
       "desmiudais",
       "desmiúdam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "desmiudava",
       "desmiudavas",
       "desmiudava",
@@ -2666,7 +2666,7 @@
       "desmiudáveis",
       "desmiudavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "desmiudei",
       "desmiudaste",
       "desmiudou",
@@ -2674,7 +2674,7 @@
       "desmiudastes",
       "desmiudaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "desmiudara",
       "desmiudaras",
       "desmiudara",
@@ -2682,7 +2682,7 @@
       "desmiudáreis",
       "desmiudaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "desmiudarei",
       "desmiudarás",
       "desmiudará",
@@ -2690,7 +2690,7 @@
       "desmiudareis",
       "desmiudarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "desmiudaria",
       "desmiudarias",
       "desmiudaria",
@@ -2700,7 +2700,7 @@
     ]
   },
   "despir": {
-    "presente": [
+    "p": [
       "dispo",
       "despes",
       "despe",
@@ -2708,7 +2708,7 @@
       "despis",
       "despem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "despia",
       "despias",
       "despia",
@@ -2716,7 +2716,7 @@
       "despíeis",
       "despiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "despi",
       "despiste",
       "despiu",
@@ -2724,7 +2724,7 @@
       "despistes",
       "despiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "despira",
       "despiras",
       "despira",
@@ -2732,7 +2732,7 @@
       "despíreis",
       "despiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "despirei",
       "despirás",
       "despirá",
@@ -2740,7 +2740,7 @@
       "despireis",
       "despirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "despiria",
       "despirias",
       "despiria",
@@ -2750,7 +2750,7 @@
     ]
   },
   "desprazer": {
-    "presente": [
+    "p": [
       "desprazo",
       "desprazes",
       "despraz",
@@ -2758,7 +2758,7 @@
       "desprazeis",
       "desprazem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "desprazia",
       "desprazias",
       "desprazia",
@@ -2766,7 +2766,7 @@
       "desprazíeis",
       "despraziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "desprouve",
       "desprouveste",
       "desprouve",
@@ -2774,7 +2774,7 @@
       "desprouvestes",
       "desprouveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "desprouvera",
       "desprouveras",
       "desprouvera",
@@ -2782,7 +2782,7 @@
       "desprouvéreis",
       "desprouveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "desprazerei",
       "desprazerás",
       "desprazerá",
@@ -2790,7 +2790,7 @@
       "desprazereis",
       "desprazerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "desprazeria",
       "desprazerias",
       "desprazeria",
@@ -2800,7 +2800,7 @@
     ]
   },
   "destruir": {
-    "presente": [
+    "p": [
       "destruo",
       "destróis",
       "destrói",
@@ -2808,7 +2808,7 @@
       "destruís",
       "destroem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "destruía",
       "destruías",
       "destruía",
@@ -2816,7 +2816,7 @@
       "destruíeis",
       "destruíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "destruí",
       "destruíste",
       "destruiu",
@@ -2824,7 +2824,7 @@
       "destruístes",
       "destruíram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "destruíra",
       "destruíras",
       "destruíra",
@@ -2832,7 +2832,7 @@
       "destruíreis",
       "destruíram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "destruirei",
       "destruirás",
       "destruirá",
@@ -2840,7 +2840,7 @@
       "destruireis",
       "destruirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "destruiria",
       "destruirias",
       "destruiria",
@@ -2850,7 +2850,7 @@
     ]
   },
   "deter": {
-    "presente": [
+    "p": [
       "detenho",
       "detens",
       "detém",
@@ -2858,7 +2858,7 @@
       "detendes",
       "detêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "detinha",
       "detinhas",
       "detinha",
@@ -2866,7 +2866,7 @@
       "detínheis",
       "detinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "detive",
       "detiveste",
       "deteve",
@@ -2874,7 +2874,7 @@
       "detivestes",
       "detiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "detivera",
       "detiveras",
       "detivera",
@@ -2882,7 +2882,7 @@
       "detivéreis",
       "detiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "deterei",
       "deterás",
       "deterá",
@@ -2890,7 +2890,7 @@
       "detereis",
       "deterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "deteria",
       "deterias",
       "deteria",
@@ -2900,7 +2900,7 @@
     ]
   },
   "devir": {
-    "presente": [
+    "p": [
       "devenho",
       "devéns",
       "devém",
@@ -2908,7 +2908,7 @@
       "devindes",
       "devêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "devinha",
       "devinhas",
       "devinha",
@@ -2916,7 +2916,7 @@
       "devínheis",
       "devinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "devim",
       "devieste",
       "deveio",
@@ -2924,7 +2924,7 @@
       "deviestes",
       "devieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "deviera",
       "devieras",
       "deviera",
@@ -2932,7 +2932,7 @@
       "deviéreis",
       "devieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "devirei",
       "devirás",
       "devirá",
@@ -2940,7 +2940,7 @@
       "devireis",
       "devirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "deviria",
       "devirias",
       "deviria",
@@ -2950,7 +2950,7 @@
     ]
   },
   "discernir": {
-    "presente": [
+    "p": [
       "discirno",
       "discernes",
       "discerne",
@@ -2958,7 +2958,7 @@
       "discernis",
       "discernem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "discernia",
       "discernias",
       "discernia",
@@ -2966,7 +2966,7 @@
       "discerníeis",
       "discerniam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "discerni",
       "discerniste",
       "discerniu",
@@ -2974,7 +2974,7 @@
       "discernistes",
       "discerniram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "discernira",
       "discerniras",
       "discernira",
@@ -2982,7 +2982,7 @@
       "discerníreis",
       "discerniram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "discernirei",
       "discernirás",
       "discernirá",
@@ -2990,7 +2990,7 @@
       "discernireis",
       "discernirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "discerniria",
       "discernirias",
       "discerniria",
@@ -3000,7 +3000,7 @@
     ]
   },
   "divergir": {
-    "presente": [
+    "p": [
       "divirjo",
       "diverges",
       "diverge",
@@ -3008,7 +3008,7 @@
       "divergis",
       "divergem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "divergia",
       "divergias",
       "divergia",
@@ -3016,7 +3016,7 @@
       "divergíeis",
       "divergiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "divergi",
       "divergiste",
       "divergiu",
@@ -3024,7 +3024,7 @@
       "divergistes",
       "divergiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "divergira",
       "divergiras",
       "divergira",
@@ -3032,7 +3032,7 @@
       "divergíreis",
       "divergiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "divergirei",
       "divergirás",
       "divergirá",
@@ -3040,7 +3040,7 @@
       "divergireis",
       "divergirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "divergiria",
       "divergirias",
       "divergiria",
@@ -3050,7 +3050,7 @@
     ]
   },
   "divertir": {
-    "presente": [
+    "p": [
       "divirto",
       "divertes",
       "diverte",
@@ -3058,7 +3058,7 @@
       "divertis",
       "divertem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "divertia",
       "divertias",
       "divertia",
@@ -3066,7 +3066,7 @@
       "divertíeis",
       "divertiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "diverti",
       "divertiste",
       "divertiu",
@@ -3074,7 +3074,7 @@
       "divertistes",
       "divertiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "divertira",
       "divertiras",
       "divertira",
@@ -3082,7 +3082,7 @@
       "divertíreis",
       "divertiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "divertirei",
       "divertirás",
       "divertirá",
@@ -3090,7 +3090,7 @@
       "divertireis",
       "divertirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "divertiria",
       "divertirias",
       "divertiria",
@@ -3100,7 +3100,7 @@
     ]
   },
   "doer": {
-    "presente": [
+    "p": [
       "doo",
       "dóis",
       "dói",
@@ -3108,7 +3108,7 @@
       "doeis",
       "doem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "doía",
       "doías",
       "doía",
@@ -3116,7 +3116,7 @@
       "doíeis",
       "doíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "doí",
       "doeste",
       "doeu",
@@ -3124,7 +3124,7 @@
       "doestes",
       "doeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "doera",
       "doeras",
       "doera",
@@ -3132,7 +3132,7 @@
       "doêreis",
       "doeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "doerei",
       "doerás",
       "doerá",
@@ -3140,7 +3140,7 @@
       "doereis",
       "doerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "doeria",
       "doerias",
       "doeria",
@@ -3150,7 +3150,7 @@
     ]
   },
   "dormir": {
-    "presente": [
+    "p": [
       "durmo",
       "dormes",
       "dorme",
@@ -3158,7 +3158,7 @@
       "dormis",
       "dormem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "dormia",
       "dormias",
       "dormia",
@@ -3166,7 +3166,7 @@
       "dormíeis",
       "dormiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "dormi",
       "dormiste",
       "dormiu",
@@ -3174,7 +3174,7 @@
       "dormistes",
       "dormiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "dormira",
       "dormiras",
       "dormira",
@@ -3182,7 +3182,7 @@
       "dormíreis",
       "dormiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "dormirei",
       "dormirás",
       "dormirá",
@@ -3190,7 +3190,7 @@
       "dormireis",
       "dormirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "dormiria",
       "dormirias",
       "dormiria",
@@ -3200,7 +3200,7 @@
     ]
   },
   "eclodir": {
-    "presente": [
+    "p": [
       "ecludo",
       "eclodes",
       "eclode",
@@ -3208,7 +3208,7 @@
       "eclodis",
       "eclodem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "eclodia",
       "eclodias",
       "eclodia",
@@ -3216,7 +3216,7 @@
       "eclodíeis",
       "eclodiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "eclodi",
       "eclodiste",
       "eclodiu",
@@ -3224,7 +3224,7 @@
       "eclodistes",
       "eclodiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "eclodira",
       "eclodiras",
       "eclodira",
@@ -3232,7 +3232,7 @@
       "eclodíreis",
       "eclodiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "eclodirei",
       "eclodirás",
       "eclodirá",
@@ -3240,7 +3240,7 @@
       "eclodireis",
       "eclodirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "eclodiria",
       "eclodirias",
       "eclodiria",
@@ -3250,7 +3250,7 @@
     ]
   },
   "empedernir": {
-    "presente": [
+    "p": [
       "empedirno",
       "empedernes",
       "empederne",
@@ -3258,7 +3258,7 @@
       "empedernis",
       "empedernem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "empedernia",
       "empedernias",
       "empedernia",
@@ -3266,7 +3266,7 @@
       "empederníeis",
       "empederniam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "empederni",
       "empederniste",
       "empederniu",
@@ -3274,7 +3274,7 @@
       "empedernistes",
       "empederniram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "empedernira",
       "empederniras",
       "empedernira",
@@ -3282,7 +3282,7 @@
       "empederníreis",
       "empederniram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "empedernirei",
       "empedernirás",
       "empedernirá",
@@ -3290,7 +3290,7 @@
       "empedernireis",
       "empedernirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "empederniria",
       "empedernirias",
       "empederniria",
@@ -3300,7 +3300,7 @@
     ]
   },
   "encobrir": {
-    "presente": [
+    "p": [
       "encubro",
       "encobres",
       "encobre",
@@ -3308,7 +3308,7 @@
       "encobris",
       "encobrem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "encobria",
       "encobrias",
       "encobria",
@@ -3316,7 +3316,7 @@
       "encobríeis",
       "encobriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "encobri",
       "encobriste",
       "encobriu",
@@ -3324,7 +3324,7 @@
       "encobristes",
       "encobriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "encobrira",
       "encobriras",
       "encobrira",
@@ -3332,7 +3332,7 @@
       "encobríreis",
       "encobriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "encobrirei",
       "encobrirás",
       "encobrirá",
@@ -3340,7 +3340,7 @@
       "encobrireis",
       "encobrirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "encobriria",
       "encobririas",
       "encobriria",
@@ -3350,7 +3350,7 @@
     ]
   },
   "engolir": {
-    "presente": [
+    "p": [
       "engulo",
       "engoles",
       "engole",
@@ -3358,7 +3358,7 @@
       "engolis",
       "engolem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "engolia",
       "engolias",
       "engolia",
@@ -3366,7 +3366,7 @@
       "engolíeis",
       "engoliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "engoli",
       "engoliste",
       "engoliu",
@@ -3374,7 +3374,7 @@
       "engolistes",
       "engoliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "engolira",
       "engoliras",
       "engolira",
@@ -3382,7 +3382,7 @@
       "engolíreis",
       "engoliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "engolirei",
       "engolirás",
       "engolirá",
@@ -3390,7 +3390,7 @@
       "engolireis",
       "engolirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "engoliria",
       "engolirias",
       "engoliria",
@@ -3400,7 +3400,7 @@
     ]
   },
   "enraizar": {
-    "presente": [
+    "p": [
       "enraízo",
       "enraízas",
       "enraíza",
@@ -3408,7 +3408,7 @@
       "enraizais",
       "enraízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "enraizava",
       "enraizavas",
       "enraizava",
@@ -3416,7 +3416,7 @@
       "enraizáveis",
       "enraizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "enraizei",
       "enraizaste",
       "enraizou",
@@ -3424,7 +3424,7 @@
       "enraizastes",
       "enraizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "enraizara",
       "enraizaras",
       "enraizara",
@@ -3432,7 +3432,7 @@
       "enraizáreis",
       "enraizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "enraizarei",
       "enraizarás",
       "enraizará",
@@ -3440,7 +3440,7 @@
       "enraizareis",
       "enraizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "enraizaria",
       "enraizarias",
       "enraizaria",
@@ -3450,7 +3450,7 @@
     ]
   },
   "entreter": {
-    "presente": [
+    "p": [
       "entretenho",
       "entretens",
       "entretém",
@@ -3458,7 +3458,7 @@
       "entretendes",
       "entretêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "entretinha",
       "entretinhas",
       "entretinha",
@@ -3466,7 +3466,7 @@
       "entretínheis",
       "entretinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "entretive",
       "entretiveste",
       "entreteve",
@@ -3474,7 +3474,7 @@
       "entretivestes",
       "entretiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "entretivera",
       "entretiveras",
       "entretivera",
@@ -3482,7 +3482,7 @@
       "entretivéreis",
       "entretiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "entreterei",
       "entreterás",
       "entreterá",
@@ -3490,7 +3490,7 @@
       "entretereis",
       "entreterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "entreteria",
       "entreterias",
       "entreteria",
@@ -3500,7 +3500,7 @@
     ]
   },
   "entupir": {
-    "presente": [
+    "p": [
       "entupo",
       "entopes",
       "entope",
@@ -3508,7 +3508,7 @@
       "entupis",
       "entopem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "entupia",
       "entupias",
       "entupia",
@@ -3516,7 +3516,7 @@
       "entupíeis",
       "entupiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "entupi",
       "entupiste",
       "entupiu",
@@ -3524,7 +3524,7 @@
       "entupistes",
       "entupiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "entupira",
       "entupiras",
       "entupira",
@@ -3532,7 +3532,7 @@
       "entupíreis",
       "entupiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "entupirei",
       "entupirás",
       "entupirá",
@@ -3540,7 +3540,7 @@
       "entupireis",
       "entupirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "entupiria",
       "entupirias",
       "entupiria",
@@ -3550,7 +3550,7 @@
     ]
   },
   "enviuvar": {
-    "presente": [
+    "p": [
       "enviúvo",
       "enviúvas",
       "enviúva",
@@ -3558,7 +3558,7 @@
       "enviuvais",
       "enviúvam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "enviuvava",
       "enviuvavas",
       "enviuvava",
@@ -3566,7 +3566,7 @@
       "enviuváveis",
       "enviuvavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "enviuvei",
       "enviuvaste",
       "enviuvou",
@@ -3574,7 +3574,7 @@
       "enviuvastes",
       "enviuvaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "enviuvara",
       "enviuvaras",
       "enviuvara",
@@ -3582,7 +3582,7 @@
       "enviuváreis",
       "enviuvaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "enviuvarei",
       "enviuvarás",
       "enviuvará",
@@ -3590,7 +3590,7 @@
       "enviuvareis",
       "enviuvarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "enviuvaria",
       "enviuvarias",
       "enviuvaria",
@@ -3600,7 +3600,7 @@
     ]
   },
   "equivaler": {
-    "presente": [
+    "p": [
       "equivalho",
       "equivales",
       "equivale",
@@ -3608,7 +3608,7 @@
       "equivaleis",
       "equivalem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "equivalia",
       "equivalias",
       "equivalia",
@@ -3616,7 +3616,7 @@
       "equivalíeis",
       "equivaliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "equivali",
       "equivaleste",
       "equivaleu",
@@ -3624,7 +3624,7 @@
       "equivalestes",
       "equivaleram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "equivalera",
       "equivaleras",
       "equivalera",
@@ -3632,7 +3632,7 @@
       "equivalêreis",
       "equivaleram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "equivalerei",
       "equivalerás",
       "equivalerá",
@@ -3640,7 +3640,7 @@
       "equivalereis",
       "equivalerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "equivaleria",
       "equivalerias",
       "equivaleria",
@@ -3650,7 +3650,7 @@
     ]
   },
   "espavorir": {
-    "presente": [
+    "p": [
       "espavuro",
       "espavores",
       "espavore",
@@ -3658,7 +3658,7 @@
       "espavoris",
       "espavorem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "espavoria",
       "espavorias",
       "espavoria",
@@ -3666,7 +3666,7 @@
       "espavoríeis",
       "espavoriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "espavori",
       "espavoriste",
       "espavoriu",
@@ -3674,7 +3674,7 @@
       "espavoristes",
       "espavoriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "espavorira",
       "espavoriras",
       "espavorira",
@@ -3682,7 +3682,7 @@
       "espavoríreis",
       "espavoriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "espavorirei",
       "espavorirás",
       "espavorirá",
@@ -3690,7 +3690,7 @@
       "espavorireis",
       "espavorirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "espavoriria",
       "espavoririas",
       "espavoriria",
@@ -3700,7 +3700,7 @@
     ]
   },
   "estar": {
-    "presente": [
+    "p": [
       "estou",
       "estás",
       "está",
@@ -3708,7 +3708,7 @@
       "estais",
       "estão"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "estava",
       "estavas",
       "estava",
@@ -3716,7 +3716,7 @@
       "estáveis",
       "estavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "estive",
       "estiveste",
       "esteve",
@@ -3724,7 +3724,7 @@
       "estivestes",
       "estiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "estivera",
       "estiveras",
       "estivera",
@@ -3732,7 +3732,7 @@
       "estivéreis",
       "estiverem"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "estarei",
       "estarás",
       "estará",
@@ -3740,7 +3740,7 @@
       "estareis",
       "estarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "estaria",
       "estarias",
       "estaria",
@@ -3750,7 +3750,7 @@
     ]
   },
   "europeizar": {
-    "presente": [
+    "p": [
       "europeízo",
       "europeízas",
       "europeíza",
@@ -3758,7 +3758,7 @@
       "europeizais",
       "europeízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "europeizava",
       "europeizavas",
       "europeizava",
@@ -3766,7 +3766,7 @@
       "europeizáveis",
       "europeizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "europeizei",
       "europeizaste",
       "europeizou",
@@ -3774,7 +3774,7 @@
       "europeizastes",
       "europeizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "europeizara",
       "europeizaras",
       "europeizara",
@@ -3782,7 +3782,7 @@
       "europeizáreis",
       "europeizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "europeizarei",
       "europeizarás",
       "europeizará",
@@ -3790,7 +3790,7 @@
       "europeizareis",
       "europeizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "europeizaria",
       "europeizarias",
       "europeizaria",
@@ -3800,7 +3800,7 @@
     ]
   },
   "expelir": {
-    "presente": [
+    "p": [
       "expilo",
       "expeles",
       "expele",
@@ -3808,7 +3808,7 @@
       "expelis",
       "expelem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "expelia",
       "expelias",
       "expelia",
@@ -3816,7 +3816,7 @@
       "expelíeis",
       "expeliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "expeli",
       "expeliste",
       "expeliu",
@@ -3824,7 +3824,7 @@
       "expelistes",
       "expeliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "expelira",
       "expeliras",
       "expelira",
@@ -3832,7 +3832,7 @@
       "expelíreis",
       "expeliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "expelirei",
       "expelirás",
       "expelirá",
@@ -3840,7 +3840,7 @@
       "expelireis",
       "expelirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "expeliria",
       "expelirias",
       "expeliria",
@@ -3850,7 +3850,7 @@
     ]
   },
   "explodir": {
-    "presente": [
+    "p": [
       "expludo",
       "explodes",
       "explode",
@@ -3858,7 +3858,7 @@
       "explodis",
       "explodem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "explodia",
       "explodias",
       "explodia",
@@ -3866,7 +3866,7 @@
       "explodíeis",
       "explodiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "explodi",
       "explodiste",
       "explodiu",
@@ -3874,7 +3874,7 @@
       "explodistes",
       "explodiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "explodira",
       "explodiras",
       "explodira",
@@ -3882,7 +3882,7 @@
       "explodíreis",
       "explodiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "explodirei",
       "explodirás",
       "explodirá",
@@ -3890,7 +3890,7 @@
       "explodireis",
       "explodirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "explodiria",
       "explodirias",
       "explodiria",
@@ -3900,7 +3900,7 @@
     ]
   },
   "fremir": {
-    "presente": [
+    "p": [
       "frimo",
       "fremes",
       "freme",
@@ -3908,7 +3908,7 @@
       "fremis",
       "fremem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "fremia",
       "fremias",
       "fremia",
@@ -3916,7 +3916,7 @@
       "fremíeis",
       "fremiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "fremi",
       "fremiste",
       "fremiu",
@@ -3924,7 +3924,7 @@
       "fremistes",
       "fremiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "fremira",
       "fremiras",
       "fremira",
@@ -3932,7 +3932,7 @@
       "fremíreis",
       "fremiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "fremirei",
       "fremirás",
       "fremirá",
@@ -3940,7 +3940,7 @@
       "fremireis",
       "fremirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "fremiria",
       "fremirias",
       "fremiria",
@@ -3950,7 +3950,7 @@
     ]
   },
   "fugir": {
-    "presente": [
+    "p": [
       "fujo",
       "foges",
       "foge",
@@ -3958,7 +3958,7 @@
       "fugis",
       "fogem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "fugia",
       "fugias",
       "fugia",
@@ -3966,7 +3966,7 @@
       "fugíeis",
       "fugiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "fugi",
       "fugiste",
       "fugiu",
@@ -3974,7 +3974,7 @@
       "fugistes",
       "fugiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "fugira",
       "fugiras",
       "fugira",
@@ -3982,7 +3982,7 @@
       "fugíreis",
       "fugiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "fugirei",
       "fugirás",
       "fugirá",
@@ -3990,7 +3990,7 @@
       "fugireis",
       "fugirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "fugiria",
       "fugirias",
       "fugiria",
@@ -4000,7 +4000,7 @@
     ]
   },
   "haver": {
-    "presente": [
+    "p": [
       "hei",
       "hás",
       "há",
@@ -4008,7 +4008,7 @@
       "heis/haveis",
       "hão"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "havia",
       "havias",
       "havia",
@@ -4016,7 +4016,7 @@
       "havíeis",
       "haviam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "houve",
       "houveste",
       "houve",
@@ -4024,7 +4024,7 @@
       "houvestes",
       "houveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "houvera",
       "houveras",
       "houvera",
@@ -4032,7 +4032,7 @@
       "houvéreis",
       "houveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "haverei",
       "haverás",
       "haverá",
@@ -4040,7 +4040,7 @@
       "havereis",
       "haverão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "haveria",
       "haverias",
       "haveria",
@@ -4050,7 +4050,7 @@
     ]
   },
   "hebraizar": {
-    "presente": [
+    "p": [
       "hebraízo",
       "hebraízas",
       "hebraíza",
@@ -4058,7 +4058,7 @@
       "hebraizais",
       "hebraízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "hebraizava",
       "hebraizavas",
       "hebraizava",
@@ -4066,7 +4066,7 @@
       "hebraizáveis",
       "hebraizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "hebraizei",
       "hebraizaste",
       "hebraizou",
@@ -4074,7 +4074,7 @@
       "hebraizastes",
       "hebraizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "hebraizara",
       "hebraizaras",
       "hebraizara",
@@ -4082,7 +4082,7 @@
       "hebraizáreis",
       "hebraizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "hebraizarei",
       "hebraizarás",
       "hebraizará",
@@ -4090,7 +4090,7 @@
       "hebraizareis",
       "hebraizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "hebraizaria",
       "hebraizarias",
       "hebraizaria",
@@ -4100,7 +4100,7 @@
     ]
   },
   "homogeneizar": {
-    "presente": [
+    "p": [
       "homogeneízo",
       "homogeneízas",
       "homogeneíza",
@@ -4108,7 +4108,7 @@
       "homogeneizais",
       "homogeneízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "homogeneizava",
       "homogeneizavas",
       "homogeneizava",
@@ -4116,7 +4116,7 @@
       "homogeneizáveis",
       "homogeneizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "homogeneizei",
       "homogeneizaste",
       "homogeneizou",
@@ -4124,7 +4124,7 @@
       "homogeneizastes",
       "homogeneizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "homogeneizara",
       "homogeneizaras",
       "homogeneizara",
@@ -4132,7 +4132,7 @@
       "homogeneizáreis",
       "homogeneizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "homogeneizarei",
       "homogeneizarás",
       "homogeneizará",
@@ -4140,7 +4140,7 @@
       "homogeneizareis",
       "homogeneizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "homogeneizaria",
       "homogeneizarias",
       "homogeneizaria",
@@ -4150,7 +4150,7 @@
     ]
   },
   "impelir": {
-    "presente": [
+    "p": [
       "impilo",
       "impeles",
       "impele",
@@ -4158,7 +4158,7 @@
       "impelis",
       "impelem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "impelia",
       "impelias",
       "impelia",
@@ -4166,7 +4166,7 @@
       "impelíeis",
       "impeliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "impeli",
       "impeliste",
       "impeliu",
@@ -4174,7 +4174,7 @@
       "impelistes",
       "impeliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "impelira",
       "impeliras",
       "impelira",
@@ -4182,7 +4182,7 @@
       "impelíreis",
       "impeliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "impelirei",
       "impelirás",
       "impelirá",
@@ -4190,7 +4190,7 @@
       "impelireis",
       "impelirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "impeliria",
       "impelirias",
       "impeliria",
@@ -4200,7 +4200,7 @@
     ]
   },
   "incendiar": {
-    "presente": [
+    "p": [
       "incendeio",
       "incendeias",
       "incendeia",
@@ -4208,7 +4208,7 @@
       "incendiais",
       "incendeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "incendiava",
       "incendiavas",
       "incendiava",
@@ -4216,7 +4216,7 @@
       "incendiáveis",
       "incendiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "incendiei",
       "incendiaste",
       "incendiou",
@@ -4224,7 +4224,7 @@
       "incendiastes",
       "incendiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "incendiara",
       "incendiaras",
       "incendiara",
@@ -4232,7 +4232,7 @@
       "incendiáreis",
       "incendiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "incendiarei",
       "incendiarás",
       "incendiará",
@@ -4240,7 +4240,7 @@
       "incendiareis",
       "incendiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "incendiaria",
       "incendiarias",
       "incendiaria",
@@ -4250,7 +4250,7 @@
     ]
   },
   "instruir": {
-    "presente": [
+    "p": [
       "instruo",
       "instrues",
       "instrue",
@@ -4258,7 +4258,7 @@
       "instruís",
       "instruem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "instruía",
       "instruías",
       "instruía",
@@ -4266,7 +4266,7 @@
       "instruíeis",
       "instruíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "instruí",
       "instruíste",
       "instruiu",
@@ -4274,7 +4274,7 @@
       "instruístes",
       "instruíram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "instruíra",
       "instruíras",
       "instruíra",
@@ -4282,7 +4282,7 @@
       "instruíreis",
       "instruíram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "instruirei",
       "instruirás",
       "instruirá",
@@ -4290,7 +4290,7 @@
       "instruireis",
       "instruirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "instruiria",
       "instruirias",
       "instruiria",
@@ -4300,7 +4300,7 @@
     ]
   },
   "intermediar": {
-    "presente": [
+    "p": [
       "intermedeio",
       "intermedeias",
       "intermedeia",
@@ -4308,7 +4308,7 @@
       "intermediais",
       "intermedeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "intermediava",
       "intermediavas",
       "intermediava",
@@ -4316,7 +4316,7 @@
       "intermediáveis",
       "intermediavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "intermediei",
       "intermediaste",
       "intermediou",
@@ -4324,7 +4324,7 @@
       "intermediastes",
       "intermediaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "intermediara",
       "intermediaras",
       "intermediara",
@@ -4332,7 +4332,7 @@
       "intermediáreis",
       "intermediaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "intermediarei",
       "intermediarás",
       "intermediará",
@@ -4340,7 +4340,7 @@
       "intermediareis",
       "intermediarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "intermediaria",
       "intermediarias",
       "intermediaria",
@@ -4350,7 +4350,7 @@
     ]
   },
   "intervir": {
-    "presente": [
+    "p": [
       "intervenho",
       "intervéns",
       "intervém",
@@ -4358,7 +4358,7 @@
       "intervindes",
       "intervêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "intervinha",
       "intervinhas",
       "intervinha",
@@ -4366,7 +4366,7 @@
       "intervínheis",
       "intervinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "intervim",
       "intervieste",
       "interveio",
@@ -4374,7 +4374,7 @@
       "interviestes",
       "intervieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "interviera",
       "intervieras",
       "interviera",
@@ -4382,7 +4382,7 @@
       "interviéreis",
       "intervieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "intervirei",
       "intervirás",
       "intervirá",
@@ -4390,7 +4390,7 @@
       "intervireis",
       "intervirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "interviria",
       "intervirias",
       "interviria",
@@ -4400,7 +4400,7 @@
     ]
   },
   "investir": {
-    "presente": [
+    "p": [
       "invisto",
       "investes",
       "investe",
@@ -4408,7 +4408,7 @@
       "investis",
       "investem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "investia",
       "investias",
       "investia",
@@ -4416,7 +4416,7 @@
       "investíeis",
       "investiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "investi",
       "investiste",
       "investiu",
@@ -4424,7 +4424,7 @@
       "investistes",
       "investiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "investira",
       "investiras",
       "investira",
@@ -4432,7 +4432,7 @@
       "investíreis",
       "investiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "investirei",
       "investirás",
       "investirá",
@@ -4440,7 +4440,7 @@
       "investireis",
       "investirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "investiria",
       "investirias",
       "investiria",
@@ -4450,7 +4450,7 @@
     ]
   },
   "ir": {
-    "presente": [
+    "p": [
       "vou",
       "vais",
       "vai",
@@ -4458,7 +4458,7 @@
       "is/ides",
       "vão"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "ia",
       "ias",
       "ia",
@@ -4466,7 +4466,7 @@
       "íeis",
       "iam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "fui",
       "foste",
       "foi",
@@ -4474,7 +4474,7 @@
       "fostes",
       "foram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "fora",
       "foras",
       "fora",
@@ -4482,7 +4482,7 @@
       "fôreis",
       "foram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "irei",
       "irás",
       "irá",
@@ -4490,7 +4490,7 @@
       "ireis",
       "irão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "iria",
       "irias",
       "iria",
@@ -4500,7 +4500,7 @@
     ]
   },
   "jazer": {
-    "presente": [
+    "p": [
       "jazo",
       "jazes",
       "jaz",
@@ -4508,7 +4508,7 @@
       "jazeis",
       "jazem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "jazia",
       "jazias",
       "jazia",
@@ -4516,7 +4516,7 @@
       "jazíeis",
       "jaziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "jazi",
       "jazeste",
       "jazeu",
@@ -4524,7 +4524,7 @@
       "jazestes",
       "jazeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "jazera",
       "jazeras",
       "jazera",
@@ -4532,7 +4532,7 @@
       "jazêreis",
       "jazeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "jazerei",
       "jazerás",
       "jazerá",
@@ -4540,7 +4540,7 @@
       "jazereis",
       "jazerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "jazeria",
       "jazerias",
       "jazeria",
@@ -4550,7 +4550,7 @@
     ]
   },
   "judaizar": {
-    "presente": [
+    "p": [
       "judaízo",
       "judaízas",
       "judaíza",
@@ -4558,7 +4558,7 @@
       "judaizais",
       "judaízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "judaizava",
       "judaizavas",
       "judaizava",
@@ -4566,7 +4566,7 @@
       "judaizáveis",
       "judaizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "judaizei",
       "judaizaste",
       "judaizou",
@@ -4574,7 +4574,7 @@
       "judaizastes",
       "judaizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "judaizara",
       "judaizaras",
       "judaizara",
@@ -4582,7 +4582,7 @@
       "judaizáreis",
       "judaizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "judaizarei",
       "judaizarás",
       "judaizará",
@@ -4590,7 +4590,7 @@
       "judaizareis",
       "judaizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "judaizaria",
       "judaizarias",
       "judaizaria",
@@ -4600,7 +4600,7 @@
     ]
   },
   "ler": {
-    "presente": [
+    "p": [
       "leio",
       "lês",
       "lê",
@@ -4608,7 +4608,7 @@
       "ledes",
       "lêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "lia",
       "lias",
       "lia",
@@ -4616,7 +4616,7 @@
       "líeis",
       "liam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "li",
       "leste",
       "leu",
@@ -4624,7 +4624,7 @@
       "lestes",
       "leram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "lera",
       "leras",
       "lera",
@@ -4632,7 +4632,7 @@
       "lêreis",
       "leram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "lerei",
       "lerás",
       "lerá",
@@ -4640,7 +4640,7 @@
       "lereis",
       "lerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "leria",
       "lerias",
       "leria",
@@ -4650,7 +4650,7 @@
     ]
   },
   "licenciar": {
-    "presente": [
+    "p": [
       "licencio/licenceio",
       "licenceias/licencias",
       "licenceia/licencia",
@@ -4658,7 +4658,7 @@
       "licenciais",
       "licenciam/licenceiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "licenciava",
       "licenciavas",
       "licenciava",
@@ -4666,7 +4666,7 @@
       "licenciáveis",
       "licenciavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "licenciei",
       "licenciaste",
       "licenciou",
@@ -4674,7 +4674,7 @@
       "licenciastes",
       "licenciaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "licenciara",
       "licenciaras",
       "licenciara",
@@ -4682,7 +4682,7 @@
       "licenciáreis",
       "licenciaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "licenciarei",
       "licenciarás",
       "licenciará",
@@ -4690,7 +4690,7 @@
       "licenciareis",
       "licenciarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "licenciaria",
       "licenciarias",
       "licenciaria",
@@ -4700,7 +4700,7 @@
     ]
   },
   "malquerer": {
-    "presente": [
+    "p": [
       "malquero",
       "malqueres",
       "malquer",
@@ -4708,7 +4708,7 @@
       "malquereis",
       "malquerem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "malqueria",
       "malquerias",
       "malqueria",
@@ -4716,7 +4716,7 @@
       "malqueríeis",
       "malqueriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "malquis",
       "malquiseste",
       "malquis",
@@ -4724,7 +4724,7 @@
       "malquisestes",
       "malquiseram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "malquisera",
       "malquiseras",
       "malquisera",
@@ -4732,7 +4732,7 @@
       "malquiséreis",
       "malquiseram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "malquererei",
       "malquererás",
       "malquererá",
@@ -4740,7 +4740,7 @@
       "malquerereis",
       "malquererão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "malquereria",
       "malquererias",
       "malquereria",
@@ -4750,7 +4750,7 @@
     ]
   },
   "manter": {
-    "presente": [
+    "p": [
       "mantenho",
       "mantens",
       "mantém",
@@ -4758,7 +4758,7 @@
       "mantendes",
       "mantêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "mantinha",
       "mantinhas",
       "mantinha",
@@ -4766,7 +4766,7 @@
       "mantínheis",
       "mantinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "mantive",
       "mantiveste",
       "manteve",
@@ -4774,7 +4774,7 @@
       "mantivestes",
       "mantiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "mantivera",
       "mantiveras",
       "mantivera",
@@ -4782,7 +4782,7 @@
       "mantivéreis",
       "mantiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "manterei",
       "manterás",
       "manterá",
@@ -4790,7 +4790,7 @@
       "mantereis",
       "manterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "manteria",
       "manterias",
       "manteria",
@@ -4800,7 +4800,7 @@
     ]
   },
   "mediar": {
-    "presente": [
+    "p": [
       "medeio",
       "medeias",
       "medeia",
@@ -4808,7 +4808,7 @@
       "mediais",
       "medeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "mediava",
       "mediavas",
       "mediava",
@@ -4816,7 +4816,7 @@
       "mediáveis",
       "mediavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "mediei",
       "mediaste",
       "mediou",
@@ -4824,7 +4824,7 @@
       "mediastes",
       "mediaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "mediara",
       "mediaras",
       "mediara",
@@ -4832,7 +4832,7 @@
       "mediáreis",
       "mediaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "mediarei",
       "mediarás",
       "mediará",
@@ -4840,7 +4840,7 @@
       "mediareis",
       "mediarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "mediaria",
       "mediarias",
       "mediaria",
@@ -4850,7 +4850,7 @@
     ]
   },
   "mentir": {
-    "presente": [
+    "p": [
       "minto",
       "mentes",
       "mente",
@@ -4858,7 +4858,7 @@
       "mentis",
       "mentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "mentia",
       "mentias",
       "mentia",
@@ -4866,7 +4866,7 @@
       "mentíeis",
       "mentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "menti",
       "mentiste",
       "mentiu",
@@ -4874,7 +4874,7 @@
       "mentistes",
       "mentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "mentira",
       "mentiras",
       "mentira",
@@ -4882,7 +4882,7 @@
       "mentíreis",
       "mentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "mentirei",
       "mentirás",
       "mentirá",
@@ -4890,7 +4890,7 @@
       "mentireis",
       "mentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "mentiria",
       "mentirias",
       "mentiria",
@@ -4900,7 +4900,7 @@
     ]
   },
   "minguar": {
-    "presente": [
+    "p": [
       "minguo",
       "minguas",
       "mingua",
@@ -4908,7 +4908,7 @@
       "minguais",
       "minguam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "minguava",
       "minguavas",
       "minguava",
@@ -4916,7 +4916,7 @@
       "minguáveis",
       "minguavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "minguei",
       "minguaste",
       "minguou",
@@ -4924,7 +4924,7 @@
       "minguastes",
       "minguaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "minguara",
       "minguaras",
       "minguara",
@@ -4932,7 +4932,7 @@
       "minguáreis",
       "minguaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "minguarei",
       "minguarás",
       "minguará",
@@ -4940,7 +4940,7 @@
       "minguareis",
       "minguarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "minguaria",
       "minguarias",
       "minguaria",
@@ -4950,7 +4950,7 @@
     ]
   },
   "moer": {
-    "presente": [
+    "p": [
       "moo",
       "móis",
       "mói",
@@ -4958,7 +4958,7 @@
       "moeis",
       "moem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "moía",
       "moías",
       "moía",
@@ -4966,7 +4966,7 @@
       "moíeis",
       "moíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "moí",
       "moeste",
       "moeu",
@@ -4974,7 +4974,7 @@
       "moestes",
       "moeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "moera",
       "moeras",
       "moera",
@@ -4982,7 +4982,7 @@
       "moêreis",
       "moeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "moerei",
       "moerás",
       "moerá",
@@ -4990,7 +4990,7 @@
       "moereis",
       "moerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "moeria",
       "moerias",
       "moeria",
@@ -5000,7 +5000,7 @@
     ]
   },
   "mugir": {
-    "presente": [
+    "p": [
       "mujo",
       "muges",
       "muge",
@@ -5008,7 +5008,7 @@
       "mugis",
       "mugem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "mugia",
       "mugias",
       "mugia",
@@ -5016,7 +5016,7 @@
       "mugíeis",
       "mugiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "mugi",
       "mugiste",
       "mugiu",
@@ -5024,7 +5024,7 @@
       "mugistes",
       "mugiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "mugira",
       "mugiras",
       "mugira",
@@ -5032,7 +5032,7 @@
       "mugíreis",
       "mugiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "mugirei",
       "mugirás",
       "mugirá",
@@ -5040,7 +5040,7 @@
       "mugireis",
       "mugirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "mugiria",
       "mugirias",
       "mugiria",
@@ -5050,7 +5050,7 @@
     ]
   },
   "multicolorir": {
-    "presente": [
+    "p": [
       "multicoluro",
       "multicolores",
       "multicolore",
@@ -5058,7 +5058,7 @@
       "multicoloris",
       "multicolorem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "multicoloria",
       "multicolorias",
       "multicoloria",
@@ -5066,7 +5066,7 @@
       "multicoloríeis",
       "multicoloriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "multicolori",
       "multicoloriste",
       "multicoloriu",
@@ -5074,7 +5074,7 @@
       "multicoloristes",
       "multicoloriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "multicolorira",
       "multicoloriras",
       "multicolorira",
@@ -5082,7 +5082,7 @@
       "multicoloríreis",
       "multicoloriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "multicolorirei",
       "multicolorirás",
       "multicolorirá",
@@ -5090,7 +5090,7 @@
       "multicolorireis",
       "multicolorirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "multicoloriria",
       "multicoloririas",
       "multicoloriria",
@@ -5100,7 +5100,7 @@
     ]
   },
   "negociar": {
-    "presente": [
+    "p": [
       "negoceio/negocio",
       "negocias/negoceias",
       "negoceia/negocia",
@@ -5108,7 +5108,7 @@
       "negociais",
       "negociam/negoceiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "negociava",
       "negociavas",
       "negociava",
@@ -5116,7 +5116,7 @@
       "negociáveis",
       "negociavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "negociei",
       "negociaste",
       "negociou",
@@ -5124,7 +5124,7 @@
       "negociastes",
       "negociaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "negociara",
       "negociaras",
       "negociara",
@@ -5132,7 +5132,7 @@
       "negociáreis",
       "negociaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "negociarei",
       "negociarás",
       "negociará",
@@ -5140,7 +5140,7 @@
       "negociareis",
       "negociarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "negociaria",
       "negociarias",
       "negociaria",
@@ -5150,7 +5150,7 @@
     ]
   },
   "obliquar": {
-    "presente": [
+    "p": [
       "obliquo",
       "obliquas",
       "obliqua",
@@ -5158,7 +5158,7 @@
       "obliquais",
       "obliquam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "obliquava",
       "obliquavas",
       "obliquava",
@@ -5166,7 +5166,7 @@
       "obliquáveis",
       "obliquavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "obliquei",
       "obliquaste",
       "obliquou",
@@ -5174,7 +5174,7 @@
       "obliquastes",
       "obliquaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "obliquara",
       "obliquaras",
       "obliquara",
@@ -5182,7 +5182,7 @@
       "obliquáreis",
       "obliquaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "obliquarei",
       "obliquarás",
       "obliquará",
@@ -5190,7 +5190,7 @@
       "obliquareis",
       "obliquarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "obliquaria",
       "obliquarias",
       "obliquaria",
@@ -5200,7 +5200,7 @@
     ]
   },
   "obsequiar": {
-    "presente": [
+    "p": [
       "obsequeio",
       "obsequeias",
       "obsequeia",
@@ -5208,7 +5208,7 @@
       "obsequiais",
       "obsequeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "obsequiava",
       "obsequiavas",
       "obsequiava",
@@ -5216,7 +5216,7 @@
       "obsequiáveis",
       "obsequiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "obsequiei",
       "obsequiaste",
       "obsequiou",
@@ -5224,7 +5224,7 @@
       "obsequiastes",
       "obsequiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "obsequiara",
       "obsequiaras",
       "obsequiara",
@@ -5232,7 +5232,7 @@
       "obsequiáreis",
       "obsequiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "obsequiarei",
       "obsequiarás",
       "obsequiará",
@@ -5240,7 +5240,7 @@
       "obsequiareis",
       "obsequiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "obsequiaria",
       "obsequiarias",
       "obsequiaria",
@@ -5250,7 +5250,7 @@
     ]
   },
   "obstruir": {
-    "presente": [
+    "p": [
       "obstruo",
       "obstrues",
       "obstrue",
@@ -5258,7 +5258,7 @@
       "obstruís",
       "obstruem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "obstruía",
       "obstruías",
       "obstruía",
@@ -5266,7 +5266,7 @@
       "obstruíeis",
       "obstruíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "obstruí",
       "obstruíste",
       "obstruiu",
@@ -5274,7 +5274,7 @@
       "obstruístes",
       "obstruíram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "obstruíra",
       "obstruíras",
       "obstruíra",
@@ -5282,7 +5282,7 @@
       "obstruíreis",
       "obstruíram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "obstruirei",
       "obstruirás",
       "obstruirá",
@@ -5290,7 +5290,7 @@
       "obstruireis",
       "obstruirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "obstruiria",
       "obstruirias",
       "obstruiria",
@@ -5300,7 +5300,7 @@
     ]
   },
   "obter": {
-    "presente": [
+    "p": [
       "obtenho",
       "obtens",
       "obtém",
@@ -5308,7 +5308,7 @@
       "obtendes",
       "obtêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "obtinha",
       "obtinhas",
       "obtinha",
@@ -5316,7 +5316,7 @@
       "obtínheis",
       "obtinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "obtive",
       "obtiveste",
       "obteve",
@@ -5324,7 +5324,7 @@
       "obtivestes",
       "obtiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "obtivera",
       "obtiveras",
       "obtivera",
@@ -5332,7 +5332,7 @@
       "obtivéreis",
       "obtiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "obterei",
       "obterás",
       "obterá",
@@ -5340,7 +5340,7 @@
       "obtereis",
       "obterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "obteria",
       "obterias",
       "obteria",
@@ -5350,7 +5350,7 @@
     ]
   },
   "odiar": {
-    "presente": [
+    "p": [
       "odeio",
       "odeias",
       "odeia",
@@ -5358,7 +5358,7 @@
       "odiais",
       "odeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "odiava",
       "odiavas",
       "odiava",
@@ -5366,7 +5366,7 @@
       "odiáveis",
       "odiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "odiei",
       "odiaste",
       "odiou",
@@ -5374,7 +5374,7 @@
       "odiastes",
       "odiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "odiara",
       "odiaras",
       "odiara",
@@ -5382,7 +5382,7 @@
       "odiáreis",
       "odiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "odiarei",
       "odiarás",
       "odiará",
@@ -5390,7 +5390,7 @@
       "odiareis",
       "odiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "odiaria",
       "odiarias",
       "odiaria",
@@ -5400,7 +5400,7 @@
     ]
   },
   "parar": {
-    "presente": [
+    "p": [
       "paro",
       "paras",
       "pára",
@@ -5408,7 +5408,7 @@
       "parais",
       "param"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "parava",
       "paravas",
       "parava",
@@ -5416,7 +5416,7 @@
       "paráveis",
       "paravam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "parei",
       "paraste",
       "parou",
@@ -5424,7 +5424,7 @@
       "parastes",
       "pararam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "parara",
       "pararas",
       "parara",
@@ -5432,7 +5432,7 @@
       "paráreis",
       "pararam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "pararei",
       "pararás",
       "parará",
@@ -5440,7 +5440,7 @@
       "parareis",
       "pararão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "pararia",
       "pararias",
       "pararia",
@@ -5450,7 +5450,7 @@
     ]
   },
   "parir": {
-    "presente": [
+    "p": [
       "paro",
       "pares",
       "pare",
@@ -5458,7 +5458,7 @@
       "paris",
       "parem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "paria",
       "parias",
       "paria",
@@ -5466,7 +5466,7 @@
       "paríeis",
       "pariam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "pari",
       "pariste",
       "pariu",
@@ -5474,7 +5474,7 @@
       "paristes",
       "pariram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "parira",
       "pariras",
       "parira",
@@ -5482,7 +5482,7 @@
       "paríreis",
       "pariram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "parirei",
       "parirás",
       "parirá",
@@ -5490,7 +5490,7 @@
       "parireis",
       "parirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "pariria",
       "paririas",
       "pariria",
@@ -5500,7 +5500,7 @@
     ]
   },
   "perder": {
-    "presente": [
+    "p": [
       "perco",
       "perdes",
       "perde",
@@ -5508,7 +5508,7 @@
       "perdeis",
       "perdem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "perdia",
       "perdias",
       "perdia",
@@ -5516,7 +5516,7 @@
       "perdíeis",
       "perdiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "perdi",
       "perdeste",
       "perdeu",
@@ -5524,7 +5524,7 @@
       "perdestes",
       "perderam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "perdera",
       "perderas",
       "perdera",
@@ -5532,7 +5532,7 @@
       "perdêreis",
       "perderam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "perderei",
       "perderás",
       "perderá",
@@ -5540,7 +5540,7 @@
       "perdereis",
       "perderão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "perderia",
       "perderias",
       "perderia",
@@ -5550,7 +5550,7 @@
     ]
   },
   "perseguir": {
-    "presente": [
+    "p": [
       "persigo",
       "persegues",
       "persegue",
@@ -5558,7 +5558,7 @@
       "perseguis",
       "perseguem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "perseguia",
       "perseguias",
       "perseguia",
@@ -5566,7 +5566,7 @@
       "perseguíeis",
       "perseguiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "persegui",
       "perseguiste",
       "perseguiu",
@@ -5574,7 +5574,7 @@
       "perseguistes",
       "perseguiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "perseguira",
       "perseguiras",
       "perseguira",
@@ -5582,7 +5582,7 @@
       "perseguíreis",
       "perseguiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "perseguirei",
       "perseguirás",
       "perseguirá",
@@ -5590,7 +5590,7 @@
       "perseguireis",
       "perseguirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "perseguiria",
       "perseguirias",
       "perseguiria",
@@ -5600,7 +5600,7 @@
     ]
   },
   "plebeizar": {
-    "presente": [
+    "p": [
       "plebeízo",
       "plebeízas",
       "plebeíza",
@@ -5608,7 +5608,7 @@
       "plebeizais",
       "plebeízam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "plebeizava",
       "plebeizavas",
       "plebeizava",
@@ -5616,7 +5616,7 @@
       "plebeizáveis",
       "plebeizavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "plebeizei",
       "plebeizaste",
       "plebeizou",
@@ -5624,7 +5624,7 @@
       "plebeizastes",
       "plebeizaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "plebeizara",
       "plebeizaras",
       "plebeizara",
@@ -5632,7 +5632,7 @@
       "plebeizáreis",
       "plebeizaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "plebeizarei",
       "plebeizarás",
       "plebeizará",
@@ -5640,7 +5640,7 @@
       "plebeizareis",
       "plebeizarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "plebeizaria",
       "plebeizarias",
       "plebeizaria",
@@ -5650,7 +5650,7 @@
     ]
   },
   "poder": {
-    "presente": [
+    "p": [
       "posso",
       "podes",
       "pode",
@@ -5658,7 +5658,7 @@
       "podeis",
       "podem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "podia",
       "podias",
       "podia",
@@ -5666,7 +5666,7 @@
       "podíeis",
       "podiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "pude",
       "pudeste",
       "pôde",
@@ -5674,7 +5674,7 @@
       "pudestes",
       "puderam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "pudera",
       "puderas",
       "pudera",
@@ -5682,7 +5682,7 @@
       "pudéreis",
       "puderam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "poderei",
       "poderás",
       "poderá",
@@ -5690,7 +5690,7 @@
       "podereis",
       "poderão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "poderia",
       "poderias",
       "poderia",
@@ -5700,7 +5700,7 @@
     ]
   },
   "polir": {
-    "presente": [
+    "p": [
       "pulo",
       "pules",
       "pule",
@@ -5708,7 +5708,7 @@
       "polis",
       "pulem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "polia",
       "polias",
       "polia",
@@ -5716,7 +5716,7 @@
       "políeis",
       "poliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "poli",
       "poliste",
       "poliu",
@@ -5724,7 +5724,7 @@
       "polistes",
       "poliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "polira",
       "poliras",
       "polira",
@@ -5732,7 +5732,7 @@
       "políreis",
       "poliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "polirei",
       "polirás",
       "polirá",
@@ -5740,7 +5740,7 @@
       "polireis",
       "polirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "poliria",
       "polirias",
       "poliria",
@@ -5750,7 +5750,7 @@
     ]
   },
   "premiar": {
-    "presente": [
+    "p": [
       "premeio",
       "premeias",
       "premeia",
@@ -5758,7 +5758,7 @@
       "premiais",
       "premeiam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "premiava",
       "premiavas",
       "premiava",
@@ -5766,7 +5766,7 @@
       "premiáveis",
       "premiavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "premiei",
       "premiaste",
       "premiou",
@@ -5774,7 +5774,7 @@
       "premiastes",
       "premiaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "premiara",
       "premiaras",
       "premiara",
@@ -5782,7 +5782,7 @@
       "premiáreis",
       "premiaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "premiarei",
       "premiarás",
       "premiará",
@@ -5790,7 +5790,7 @@
       "premiareis",
       "premiarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "premiaria",
       "premiarias",
       "premiaria",
@@ -5800,7 +5800,7 @@
     ]
   },
   "premir": {
-    "presente": [
+    "p": [
       "primo",
       "primes",
       "prime",
@@ -5808,7 +5808,7 @@
       "premis",
       "primem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "premia",
       "premias",
       "premia",
@@ -5816,7 +5816,7 @@
       "premíeis",
       "premiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "premi",
       "premiste",
       "premiu",
@@ -5824,7 +5824,7 @@
       "premistes",
       "premiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "premira",
       "premiras",
       "premira",
@@ -5832,7 +5832,7 @@
       "premíreis",
       "premiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "premirei",
       "premirás",
       "premirá",
@@ -5840,7 +5840,7 @@
       "premireis",
       "premirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "premiria",
       "premirias",
       "premiria",
@@ -5850,7 +5850,7 @@
     ]
   },
   "pressentir": {
-    "presente": [
+    "p": [
       "pressinto",
       "pressentes",
       "pressente",
@@ -5858,7 +5858,7 @@
       "pressentis",
       "pressentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "pressentia",
       "pressentias",
       "pressentia",
@@ -5866,7 +5866,7 @@
       "pressentíeis",
       "pressentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "pressenti",
       "pressentiste",
       "pressentiu",
@@ -5874,7 +5874,7 @@
       "pressentistes",
       "pressentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "pressentira",
       "pressentiras",
       "pressentira",
@@ -5882,7 +5882,7 @@
       "pressentíreis",
       "pressentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "pressentirei",
       "pressentirás",
       "pressentirá",
@@ -5890,7 +5890,7 @@
       "pressentireis",
       "pressentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "pressentiria",
       "pressentirias",
       "pressentiria",
@@ -5900,7 +5900,7 @@
     ]
   },
   "prevenir": {
-    "presente": [
+    "p": [
       "previno",
       "prevines",
       "previne",
@@ -5908,7 +5908,7 @@
       "prevenis",
       "previnem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "prevenia",
       "prevenias",
       "prevenia",
@@ -5916,7 +5916,7 @@
       "preveníeis",
       "preveniam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "preveni",
       "preveniste",
       "preveniu",
@@ -5924,7 +5924,7 @@
       "prevenistes",
       "preveniram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "prevenira",
       "preveniras",
       "prevenira",
@@ -5932,7 +5932,7 @@
       "preveníreis",
       "preveniram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "prevenirei",
       "prevenirás",
       "prevenirá",
@@ -5940,7 +5940,7 @@
       "prevenireis",
       "prevenirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "preveniria",
       "prevenirias",
       "preveniria",
@@ -5950,7 +5950,7 @@
     ]
   },
   "prever": {
-    "presente": [
+    "p": [
       "prevejo",
       "prevês",
       "prevê",
@@ -5958,7 +5958,7 @@
       "preveis",
       "prevêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "previa",
       "previas",
       "previa",
@@ -5966,7 +5966,7 @@
       "prevíeis",
       "previam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "previ",
       "previste",
       "previu",
@@ -5974,7 +5974,7 @@
       "previstes",
       "previram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "previra",
       "previras",
       "previra",
@@ -5982,7 +5982,7 @@
       "prevíreis",
       "previram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "preverei",
       "preverás",
       "preverá",
@@ -5990,7 +5990,7 @@
       "prevereis",
       "preverão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "preveria",
       "preverias",
       "preveria",
@@ -6000,7 +6000,7 @@
     ]
   },
   "progredir": {
-    "presente": [
+    "p": [
       "progrido",
       "progrides",
       "progride",
@@ -6008,7 +6008,7 @@
       "progredis",
       "progridem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "progredia",
       "progredias",
       "progredia",
@@ -6016,7 +6016,7 @@
       "progredíeis",
       "progrediam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "progredi",
       "progrediste",
       "progrediu",
@@ -6024,7 +6024,7 @@
       "progredistes",
       "progrediram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "progredira",
       "progrediras",
       "progredira",
@@ -6032,7 +6032,7 @@
       "progredíreis",
       "progrediram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "progredirei",
       "progredirás",
       "progredirá",
@@ -6040,7 +6040,7 @@
       "progredireis",
       "progredirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "progrediria",
       "progredirias",
       "progrediria",
@@ -6050,7 +6050,7 @@
     ]
   },
   "proibir": {
-    "presente": [
+    "p": [
       "proíbo",
       "proíbes",
       "proíbe",
@@ -6058,7 +6058,7 @@
       "proibis",
       "proíbem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "proibia",
       "proibias",
       "proibia",
@@ -6066,7 +6066,7 @@
       "proibíeis",
       "proibiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "proibi",
       "proibiste",
       "proibiu",
@@ -6074,7 +6074,7 @@
       "proibistes",
       "proibiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "proibira",
       "proibiras",
       "proibira",
@@ -6082,7 +6082,7 @@
       "proibíreis",
       "proibiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "proibirei",
       "proibirás",
       "proibirá",
@@ -6090,7 +6090,7 @@
       "proibireis",
       "proibirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "proibiria",
       "proibirias",
       "proibiria",
@@ -6100,7 +6100,7 @@
     ]
   },
   "prosseguir": {
-    "presente": [
+    "p": [
       "prossigo",
       "prossegues",
       "prossegue",
@@ -6108,7 +6108,7 @@
       "prosseguis",
       "prosseguem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "prosseguia",
       "prosseguias",
       "prosseguia",
@@ -6116,7 +6116,7 @@
       "prosseguíeis",
       "prosseguiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "prossegui",
       "prosseguiste",
       "prosseguiu",
@@ -6124,7 +6124,7 @@
       "prosseguistes",
       "prosseguiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "prosseguira",
       "prosseguiras",
       "prosseguira",
@@ -6132,7 +6132,7 @@
       "prosseguíreis",
       "prosseguiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "prosseguirei",
       "prosseguirás",
       "prosseguirá",
@@ -6140,7 +6140,7 @@
       "prosseguireis",
       "prosseguirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "prosseguiria",
       "prosseguirias",
       "prosseguiria",
@@ -6150,7 +6150,7 @@
     ]
   },
   "prover": {
-    "presente": [
+    "p": [
       "provejo",
       "provês",
       "provê",
@@ -6158,7 +6158,7 @@
       "proveis",
       "provêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "provia",
       "provias",
       "provia",
@@ -6166,7 +6166,7 @@
       "províeis",
       "proviam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "provi",
       "proveste",
       "proveu",
@@ -6174,7 +6174,7 @@
       "provestes",
       "proveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "provera",
       "proveras",
       "provera",
@@ -6182,7 +6182,7 @@
       "provêreis",
       "proveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "proverei",
       "proverás",
       "proverá",
@@ -6190,7 +6190,7 @@
       "provereis",
       "proverão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "proveria",
       "proverias",
       "proveria",
@@ -6200,7 +6200,7 @@
     ]
   },
   "provir": {
-    "presente": [
+    "p": [
       "provenho",
       "provéns",
       "provém",
@@ -6208,7 +6208,7 @@
       "provindes",
       "provêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "provinha",
       "provinhas",
       "provinha",
@@ -6216,7 +6216,7 @@
       "provínheis",
       "provinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "provim",
       "provieste",
       "proveio",
@@ -6224,7 +6224,7 @@
       "proviestes",
       "provieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "proviera",
       "provieras",
       "proviera",
@@ -6232,7 +6232,7 @@
       "proviéreis",
       "provieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "provirei",
       "provirás",
       "provirá",
@@ -6240,7 +6240,7 @@
       "provireis",
       "provirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "proviria",
       "provirias",
       "proviria",
@@ -6250,7 +6250,7 @@
     ]
   },
   "querer": {
-    "presente": [
+    "p": [
       "quero",
       "queres",
       "quer",
@@ -6258,7 +6258,7 @@
       "quereis",
       "querem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "queria",
       "querias",
       "queria",
@@ -6266,7 +6266,7 @@
       "queríeis",
       "queriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "quis",
       "quiseste",
       "quis",
@@ -6274,7 +6274,7 @@
       "quisestes",
       "quiseram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "quisera",
       "quiseras",
       "quisera",
@@ -6282,7 +6282,7 @@
       "quiséreis",
       "quiseram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "quererei",
       "quererás",
       "quererá",
@@ -6290,7 +6290,7 @@
       "querereis",
       "quererão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "quereria",
       "quererias",
       "quereria",
@@ -6300,7 +6300,7 @@
     ]
   },
   "rebolir": {
-    "presente": [
+    "p": [
       "rebulo",
       "reboles",
       "rebole",
@@ -6308,7 +6308,7 @@
       "rebolis",
       "rebolem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "rebolia",
       "rebolias",
       "rebolia",
@@ -6316,7 +6316,7 @@
       "rebolíeis",
       "reboliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "reboli",
       "reboliste",
       "reboliu",
@@ -6324,7 +6324,7 @@
       "rebolistes",
       "reboliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "rebolira",
       "reboliras",
       "rebolira",
@@ -6332,7 +6332,7 @@
       "rebolíreis",
       "reboliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "rebolirei",
       "rebolirás",
       "rebolirá",
@@ -6340,7 +6340,7 @@
       "rebolireis",
       "rebolirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "reboliria",
       "rebolirias",
       "reboliria",
@@ -6350,7 +6350,7 @@
     ]
   },
   "regredir": {
-    "presente": [
+    "p": [
       "regrido",
       "regrides",
       "regride",
@@ -6358,7 +6358,7 @@
       "regredis",
       "regridem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "regredia",
       "regredias",
       "regredia",
@@ -6366,7 +6366,7 @@
       "regredíeis",
       "regrediam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "regredi",
       "regrediste",
       "regrediu",
@@ -6374,7 +6374,7 @@
       "regredistes",
       "regrediram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "regredira",
       "regrediras",
       "regredira",
@@ -6382,7 +6382,7 @@
       "regredíreis",
       "regrediram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "regredirei",
       "regredirás",
       "regredirá",
@@ -6390,7 +6390,7 @@
       "regredireis",
       "regredirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "regrediria",
       "regredirias",
       "regrediria",
@@ -6400,7 +6400,7 @@
     ]
   },
   "remir": {
-    "presente": [
+    "p": [
       "redimo",
       "redimes",
       "redime",
@@ -6408,7 +6408,7 @@
       "remis",
       "redimem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "remia",
       "remias",
       "remia",
@@ -6416,7 +6416,7 @@
       "remíeis",
       "remiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "remi",
       "remiste",
       "remiu",
@@ -6424,7 +6424,7 @@
       "remistes",
       "remiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "remira",
       "remiras",
       "remira",
@@ -6432,7 +6432,7 @@
       "remíreis",
       "remiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "remirei",
       "remirás",
       "remirá",
@@ -6440,7 +6440,7 @@
       "remireis",
       "remirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "remiria",
       "remirias",
       "remiria",
@@ -6450,7 +6450,7 @@
     ]
   },
   "remoer": {
-    "presente": [
+    "p": [
       "remoo",
       "remóis",
       "remói",
@@ -6458,7 +6458,7 @@
       "remoeis",
       "remoem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "remoía",
       "remoías",
       "remoía",
@@ -6466,7 +6466,7 @@
       "remoíeis",
       "remoíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "remoí",
       "remoeste",
       "remoeu",
@@ -6474,7 +6474,7 @@
       "remoestes",
       "remoeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "remoera",
       "remoeras",
       "remoera",
@@ -6482,7 +6482,7 @@
       "remoêreis",
       "remoeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "remoerei",
       "remoerás",
       "remoerá",
@@ -6490,7 +6490,7 @@
       "remoereis",
       "remoerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "remoeria",
       "remoerias",
       "remoeria",
@@ -6500,7 +6500,7 @@
     ]
   },
   "repelir": {
-    "presente": [
+    "p": [
       "repilo",
       "repeles",
       "repele",
@@ -6508,7 +6508,7 @@
       "repelis",
       "repelem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "repelia",
       "repelias",
       "repelia",
@@ -6516,7 +6516,7 @@
       "repelíeis",
       "repeliam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "repeli",
       "repeliste",
       "repeliu",
@@ -6524,7 +6524,7 @@
       "repelistes",
       "repeliram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "repelira",
       "repeliras",
       "repelira",
@@ -6532,7 +6532,7 @@
       "repelíreis",
       "repeliram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "repelirei",
       "repelirás",
       "repelirá",
@@ -6540,7 +6540,7 @@
       "repelireis",
       "repelirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "repeliria",
       "repelirias",
       "repeliria",
@@ -6550,7 +6550,7 @@
     ]
   },
   "repetir": {
-    "presente": [
+    "p": [
       "repito",
       "repetes",
       "repete",
@@ -6558,7 +6558,7 @@
       "repetis",
       "repetem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "repetia",
       "repetias",
       "repetia",
@@ -6566,7 +6566,7 @@
       "repetíeis",
       "repetiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "repeti",
       "repetiste",
       "repetiu",
@@ -6574,7 +6574,7 @@
       "repetistes",
       "repetiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "repetira",
       "repetiras",
       "repetira",
@@ -6582,7 +6582,7 @@
       "repetíreis",
       "repetiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "repetirei",
       "repetirás",
       "repetirá",
@@ -6590,7 +6590,7 @@
       "repetireis",
       "repetirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "repetiria",
       "repetirias",
       "repetiria",
@@ -6600,7 +6600,7 @@
     ]
   },
   "requerer": {
-    "presente": [
+    "p": [
       "requeiro",
       "requeres",
       "requer",
@@ -6608,7 +6608,7 @@
       "requereis",
       "requerem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "requeria",
       "requerias",
       "requeria",
@@ -6616,7 +6616,7 @@
       "requeríeis",
       "requeriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "requeri",
       "requereste",
       "requereu",
@@ -6624,7 +6624,7 @@
       "requerestes",
       "requereram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "requerera",
       "requereras",
       "requerera",
@@ -6632,7 +6632,7 @@
       "requerêreis",
       "requereram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "requererei",
       "requererás",
       "requererá",
@@ -6640,7 +6640,7 @@
       "requerereis",
       "requererão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "requereria",
       "requererias",
       "requereria",
@@ -6650,7 +6650,7 @@
     ]
   },
   "ressentir": {
-    "presente": [
+    "p": [
       "ressinto",
       "ressentes",
       "ressente",
@@ -6658,7 +6658,7 @@
       "ressentis",
       "ressentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "ressentia",
       "ressentias",
       "ressentia",
@@ -6666,7 +6666,7 @@
       "ressentíeis",
       "ressentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "ressenti",
       "ressentiste",
       "ressentiu",
@@ -6674,7 +6674,7 @@
       "ressentistes",
       "ressentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "ressentira",
       "ressentiras",
       "ressentira",
@@ -6682,7 +6682,7 @@
       "ressentíreis",
       "ressentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "ressentirei",
       "ressentirás",
       "ressentirá",
@@ -6690,7 +6690,7 @@
       "ressentireis",
       "ressentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "ressentiria",
       "ressentirias",
       "ressentiria",
@@ -6700,7 +6700,7 @@
     ]
   },
   "reter": {
-    "presente": [
+    "p": [
       "retenho",
       "retens",
       "retém",
@@ -6708,7 +6708,7 @@
       "retendes",
       "retêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "retinha",
       "retinhas",
       "retinha",
@@ -6716,7 +6716,7 @@
       "retínheis",
       "retinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "retive",
       "retiveste",
       "reteve",
@@ -6724,7 +6724,7 @@
       "retivestes",
       "retiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "retivera",
       "retiveras",
       "retivera",
@@ -6732,7 +6732,7 @@
       "retivéreis",
       "retiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "reterei",
       "reterás",
       "reterá",
@@ -6740,7 +6740,7 @@
       "retereis",
       "reterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "reteria",
       "reterias",
       "reteria",
@@ -6750,7 +6750,7 @@
     ]
   },
   "reunir": {
-    "presente": [
+    "p": [
       "reúno",
       "reúnes",
       "reúne",
@@ -6758,7 +6758,7 @@
       "reunis",
       "reúnem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "reunia",
       "reunias",
       "reunia",
@@ -6766,7 +6766,7 @@
       "reuníeis",
       "reuniam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "reuni",
       "reuniste",
       "reuniu",
@@ -6774,7 +6774,7 @@
       "reunistes",
       "reuniram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "reunira",
       "reuniras",
       "reunira",
@@ -6782,7 +6782,7 @@
       "reuníreis",
       "reuniram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "reunirei",
       "reunirás",
       "reunirá",
@@ -6790,7 +6790,7 @@
       "reunireis",
       "reunirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "reuniria",
       "reunirias",
       "reuniria",
@@ -6800,7 +6800,7 @@
     ]
   },
   "rever": {
-    "presente": [
+    "p": [
       "revejo",
       "revês",
       "revê",
@@ -6808,7 +6808,7 @@
       "reveis",
       "revêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "revia",
       "revias",
       "revia",
@@ -6816,7 +6816,7 @@
       "revíeis",
       "reviam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "revi",
       "reviste",
       "reviu",
@@ -6824,7 +6824,7 @@
       "revistes",
       "reviram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "revira",
       "reviras",
       "revira",
@@ -6832,7 +6832,7 @@
       "revíreis",
       "reviram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "reverei",
       "reverás",
       "reverá",
@@ -6840,7 +6840,7 @@
       "revereis",
       "reverão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "reveria",
       "reverias",
       "reveria",
@@ -6850,7 +6850,7 @@
     ]
   },
   "revestir": {
-    "presente": [
+    "p": [
       "revisto",
       "revestes",
       "reveste",
@@ -6858,7 +6858,7 @@
       "revestis",
       "revestem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "revestia",
       "revestias",
       "revestia",
@@ -6866,7 +6866,7 @@
       "revestíeis",
       "revestiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "revesti",
       "revestiste",
       "revestiu",
@@ -6874,7 +6874,7 @@
       "revestistes",
       "revestiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "revestira",
       "revestiras",
       "revestira",
@@ -6882,7 +6882,7 @@
       "revestíreis",
       "revestiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "revestirei",
       "revestirás",
       "revestirá",
@@ -6890,7 +6890,7 @@
       "revestireis",
       "revestirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "revestiria",
       "revestirias",
       "revestiria",
@@ -6900,7 +6900,7 @@
     ]
   },
   "revir": {
-    "presente": [
+    "p": [
       "revenho",
       "revéns",
       "revém",
@@ -6908,7 +6908,7 @@
       "revindes",
       "revêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "revinha",
       "revinhas",
       "revinha",
@@ -6916,7 +6916,7 @@
       "revínheis",
       "revinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "revim",
       "revieste",
       "reveio",
@@ -6924,7 +6924,7 @@
       "reviestes",
       "revieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "reviera",
       "revieras",
       "reviera",
@@ -6932,7 +6932,7 @@
       "reviéreis",
       "revieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "revirei",
       "revirás",
       "revirá",
@@ -6940,7 +6940,7 @@
       "revireis",
       "revirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "reviria",
       "revirias",
       "reviria",
@@ -6950,7 +6950,7 @@
     ]
   },
   "rir": {
-    "presente": [
+    "p": [
       "rio",
       "ris",
       "ri",
@@ -6958,7 +6958,7 @@
       "rides",
       "riem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "ria",
       "rias",
       "ria",
@@ -6966,7 +6966,7 @@
       "ríeis",
       "riam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "ri",
       "riste",
       "riu",
@@ -6974,7 +6974,7 @@
       "ristes",
       "riram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "rira",
       "riras",
       "rira",
@@ -6982,7 +6982,7 @@
       "ríreis",
       "riram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "rirei",
       "rirás",
       "rirá",
@@ -6990,7 +6990,7 @@
       "rireis",
       "rirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "riria",
       "ririas",
       "riria",
@@ -7000,7 +7000,7 @@
     ]
   },
   "roer": {
-    "presente": [
+    "p": [
       "roo",
       "róis",
       "rói",
@@ -7008,7 +7008,7 @@
       "roeis",
       "roem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "roía",
       "roías",
       "roía",
@@ -7016,7 +7016,7 @@
       "roíeis",
       "roíam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "roí",
       "roeste",
       "roeu",
@@ -7024,7 +7024,7 @@
       "roestes",
       "roeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "roera",
       "roeras",
       "roera",
@@ -7032,7 +7032,7 @@
       "roêreis",
       "roeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "roerei",
       "roerás",
       "roerá",
@@ -7040,7 +7040,7 @@
       "roereis",
       "roerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "roeria",
       "roerias",
       "roeria",
@@ -7050,7 +7050,7 @@
     ]
   },
   "rugir": {
-    "presente": [
+    "p": [
       "rujo",
       "ruges",
       "ruge",
@@ -7058,7 +7058,7 @@
       "rugis",
       "rugem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "rugia",
       "rugias",
       "rugia",
@@ -7066,7 +7066,7 @@
       "rugíeis",
       "rugiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "rugi",
       "rugiste",
       "rugiu",
@@ -7074,7 +7074,7 @@
       "rugistes",
       "rugiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "rugira",
       "rugiras",
       "rugira",
@@ -7082,7 +7082,7 @@
       "rugíreis",
       "rugiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "rugirei",
       "rugirás",
       "rugirá",
@@ -7090,7 +7090,7 @@
       "rugireis",
       "rugirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "rugiria",
       "rugirias",
       "rugiria",
@@ -7100,7 +7100,7 @@
     ]
   },
   "saber": {
-    "presente": [
+    "p": [
       "sei",
       "sabes",
       "sabe",
@@ -7108,7 +7108,7 @@
       "sabeis",
       "sabem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sabia",
       "sabias",
       "sabia",
@@ -7116,7 +7116,7 @@
       "sabíeis",
       "sabiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "soube",
       "soubeste",
       "soube",
@@ -7124,7 +7124,7 @@
       "soubestes",
       "souberam"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "soubera",
       "souberas",
       "soubera",
@@ -7132,7 +7132,7 @@
       "soubéreis",
       "souberam"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "saberei",
       "saberás",
       "saberá",
@@ -7140,7 +7140,7 @@
       "sabereis",
       "saberão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "saberia",
       "saberias",
       "saberia",
@@ -7150,7 +7150,7 @@
     ]
   },
   "sacudir": {
-    "presente": [
+    "p": [
       "sacudo",
       "sacodes",
       "sacode",
@@ -7158,7 +7158,7 @@
       "sacudis",
       "sacodem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sacudia",
       "sacudias",
       "sacudia",
@@ -7166,7 +7166,7 @@
       "sacudíeis",
       "sacudiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "sacudi",
       "sacudiste",
       "sacudiu",
@@ -7174,7 +7174,7 @@
       "sacudistes",
       "sacudiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sacudira",
       "sacudiras",
       "sacudira",
@@ -7182,7 +7182,7 @@
       "sacudíreis",
       "sacudiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "sacudirei",
       "sacudirás",
       "sacudirá",
@@ -7190,7 +7190,7 @@
       "sacudireis",
       "sacudirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "sacudiria",
       "sacudirias",
       "sacudiria",
@@ -7200,7 +7200,7 @@
     ]
   },
   "saudar": {
-    "presente": [
+    "p": [
       "saúdo",
       "saúdas",
       "saúda",
@@ -7208,7 +7208,7 @@
       "saudais",
       "saúdam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "saudava",
       "saudavas",
       "saudava",
@@ -7216,7 +7216,7 @@
       "saudáveis",
       "saudavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "saudei",
       "saudaste",
       "saudou",
@@ -7224,7 +7224,7 @@
       "saudastes",
       "saudaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "saudara",
       "saudaras",
       "saudara",
@@ -7232,7 +7232,7 @@
       "saudáreis",
       "saudaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "saudarei",
       "saudarás",
       "saudará",
@@ -7240,7 +7240,7 @@
       "saudareis",
       "saudarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "saudaria",
       "saudarias",
       "saudaria",
@@ -7250,7 +7250,7 @@
     ]
   },
   "seguir": {
-    "presente": [
+    "p": [
       "sigo",
       "segues",
       "segue",
@@ -7258,7 +7258,7 @@
       "seguis",
       "seguem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "seguia",
       "seguias",
       "seguia",
@@ -7266,7 +7266,7 @@
       "seguíeis",
       "seguiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "segui",
       "seguiste",
       "seguiu",
@@ -7274,7 +7274,7 @@
       "seguistes",
       "seguiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "seguira",
       "seguiras",
       "seguira",
@@ -7282,7 +7282,7 @@
       "seguíreis",
       "seguiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "seguirei",
       "seguirás",
       "seguirá",
@@ -7290,7 +7290,7 @@
       "seguireis",
       "seguirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "seguiria",
       "seguirias",
       "seguiria",
@@ -7300,7 +7300,7 @@
     ]
   },
   "sentir": {
-    "presente": [
+    "p": [
       "sinto",
       "sentes",
       "sente",
@@ -7308,7 +7308,7 @@
       "sentis",
       "sentem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sentia",
       "sentias",
       "sentia",
@@ -7316,7 +7316,7 @@
       "sentíeis",
       "sentiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "senti",
       "sentiste",
       "sentiu",
@@ -7324,7 +7324,7 @@
       "sentistes",
       "sentiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sentira",
       "sentiras",
       "sentira",
@@ -7332,7 +7332,7 @@
       "sentíreis",
       "sentiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "sentirei",
       "sentirás",
       "sentirá",
@@ -7340,7 +7340,7 @@
       "sentireis",
       "sentirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "sentiria",
       "sentirias",
       "sentiria",
@@ -7350,7 +7350,7 @@
     ]
   },
   "ser": {
-    "presente": [
+    "p": [
       "sou",
       "és",
       "é",
@@ -7358,7 +7358,7 @@
       "sois",
       "são"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "era",
       "eras",
       "era",
@@ -7366,7 +7366,7 @@
       "éreis",
       "eram"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "fui",
       "foste",
       "foi",
@@ -7374,7 +7374,7 @@
       "fostes",
       "foram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "fora",
       "foras",
       "fora",
@@ -7382,7 +7382,7 @@
       "fôreis",
       "foram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "serei",
       "serás",
       "será",
@@ -7390,7 +7390,7 @@
       "sereis",
       "serão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "seria",
       "serias",
       "seria",
@@ -7400,7 +7400,7 @@
     ]
   },
   "servir": {
-    "presente": [
+    "p": [
       "sirvo",
       "serves",
       "serve",
@@ -7408,7 +7408,7 @@
       "servis",
       "servem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "servia",
       "servias",
       "servia",
@@ -7416,7 +7416,7 @@
       "servíeis",
       "serviam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "servi",
       "serviste",
       "serviu",
@@ -7424,7 +7424,7 @@
       "servistes",
       "serviram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "servira",
       "serviras",
       "servira",
@@ -7432,7 +7432,7 @@
       "servíreis",
       "serviram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "servirei",
       "servirás",
       "servirá",
@@ -7440,7 +7440,7 @@
       "servireis",
       "servirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "serviria",
       "servirias",
       "serviria",
@@ -7450,7 +7450,7 @@
     ]
   },
   "sorrir": {
-    "presente": [
+    "p": [
       "sorrio",
       "sorris",
       "sorri",
@@ -7458,7 +7458,7 @@
       "sorrides",
       "sorriem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sorria",
       "sorrias",
       "sorria",
@@ -7466,7 +7466,7 @@
       "sorríeis",
       "sorriam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "sorri",
       "sorriste",
       "sorriu",
@@ -7474,7 +7474,7 @@
       "sorristes",
       "sorriram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sorrira",
       "sorriras",
       "sorrira",
@@ -7482,7 +7482,7 @@
       "sorríreis",
       "sorriram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "sorrirei",
       "sorrirás",
       "sorrirá",
@@ -7490,7 +7490,7 @@
       "sorrireis",
       "sorrirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "sorriria",
       "sorririas",
       "sorriria",
@@ -7500,7 +7500,7 @@
     ]
   },
   "sortir": {
-    "presente": [
+    "p": [
       "surto",
       "surtes",
       "surte",
@@ -7508,7 +7508,7 @@
       "sortis",
       "surtem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sortia",
       "sortias",
       "sortia",
@@ -7516,7 +7516,7 @@
       "sortíeis",
       "sortiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "sorti",
       "sortiste",
       "sortiu",
@@ -7524,7 +7524,7 @@
       "sortistes",
       "sortiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sortira",
       "sortiras",
       "sortira",
@@ -7532,7 +7532,7 @@
       "sortíreis",
       "sortiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "sortirei",
       "sortirás",
       "sortirá",
@@ -7540,7 +7540,7 @@
       "sortireis",
       "sortirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "sortiria",
       "sortirias",
       "sortiria",
@@ -7550,7 +7550,7 @@
     ]
   },
   "subir": {
-    "presente": [
+    "p": [
       "subo",
       "sobes",
       "sobe",
@@ -7558,7 +7558,7 @@
       "subis",
       "sobem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "subia",
       "subias",
       "subia",
@@ -7566,7 +7566,7 @@
       "subíeis",
       "subiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "subi",
       "subiste",
       "subiu",
@@ -7574,7 +7574,7 @@
       "subistes",
       "subiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "subira",
       "subiras",
       "subira",
@@ -7582,7 +7582,7 @@
       "subíreis",
       "subiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "subirei",
       "subirás",
       "subirá",
@@ -7590,7 +7590,7 @@
       "subireis",
       "subirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "subiria",
       "subirias",
       "subiria",
@@ -7600,7 +7600,7 @@
     ]
   },
   "sumir": {
-    "presente": [
+    "p": [
       "sumo",
       "somes",
       "some",
@@ -7608,7 +7608,7 @@
       "sumis",
       "somem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sumia",
       "sumias",
       "sumia",
@@ -7616,7 +7616,7 @@
       "sumíeis",
       "sumiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "sumi",
       "sumiste",
       "sumiu",
@@ -7624,7 +7624,7 @@
       "sumistes",
       "sumiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sumira",
       "sumiras",
       "sumira",
@@ -7632,7 +7632,7 @@
       "sumíreis",
       "sumiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "sumirei",
       "sumirás",
       "sumirá",
@@ -7640,7 +7640,7 @@
       "sumireis",
       "sumirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "sumiria",
       "sumirias",
       "sumiria",
@@ -7650,7 +7650,7 @@
     ]
   },
   "suster": {
-    "presente": [
+    "p": [
       "sustenho",
       "sustens",
       "sustém",
@@ -7658,7 +7658,7 @@
       "sustendes",
       "sustêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "sustinha",
       "sustinhas",
       "sustinha",
@@ -7666,7 +7666,7 @@
       "sustínheis",
       "sustinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "sustive",
       "sustiveste",
       "susteve",
@@ -7674,7 +7674,7 @@
       "sustivestes",
       "sustiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "sustivera",
       "sustiveras",
       "sustivera",
@@ -7682,7 +7682,7 @@
       "sustivéreis",
       "sustiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "susterei",
       "susterás",
       "susterá",
@@ -7690,7 +7690,7 @@
       "sustereis",
       "susterão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "susteria",
       "susterias",
       "susteria",
@@ -7700,7 +7700,7 @@
     ]
   },
   "ter": {
-    "presente": [
+    "p": [
       "tenho",
       "tens",
       "tem",
@@ -7708,7 +7708,7 @@
       "tendes",
       "têm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "tinha",
       "tinhas",
       "tinha",
@@ -7716,7 +7716,7 @@
       "tínheis",
       "tinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "tive",
       "tiveste",
       "teve",
@@ -7724,7 +7724,7 @@
       "tivestes",
       "tiveram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "tivera",
       "tiveras",
       "tivera",
@@ -7732,7 +7732,7 @@
       "tivéreis",
       "tiveram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "terei",
       "terás",
       "terá",
@@ -7740,7 +7740,7 @@
       "tereis",
       "terão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "teria",
       "terias",
       "teria",
@@ -7750,7 +7750,7 @@
     ]
   },
   "tossir": {
-    "presente": [
+    "p": [
       "tusso",
       "tosses",
       "tosse",
@@ -7758,7 +7758,7 @@
       "tossis",
       "tossem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "tossia",
       "tossias",
       "tossia",
@@ -7766,7 +7766,7 @@
       "tossíeis",
       "tossiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "tossi",
       "tossiste",
       "tossiu",
@@ -7774,7 +7774,7 @@
       "tossistes",
       "tossiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "tossira",
       "tossiras",
       "tossira",
@@ -7782,7 +7782,7 @@
       "tossíreis",
       "tossiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "tossirei",
       "tossirás",
       "tossirá",
@@ -7790,7 +7790,7 @@
       "tossireis",
       "tossirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "tossiria",
       "tossirias",
       "tossiria",
@@ -7800,7 +7800,7 @@
     ]
   },
   "transgredir": {
-    "presente": [
+    "p": [
       "transgrido",
       "transgrides",
       "transgride",
@@ -7808,7 +7808,7 @@
       "transgredis",
       "transgridem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "transgredia",
       "transgredias",
       "transgredia",
@@ -7816,7 +7816,7 @@
       "transgredíeis",
       "transgrediam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "transgredi",
       "transgrediste",
       "transgrediu",
@@ -7824,7 +7824,7 @@
       "transgredistes",
       "transgrediram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "transgredira",
       "transgrediras",
       "transgredira",
@@ -7832,7 +7832,7 @@
       "transgredíreis",
       "transgrediram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "transgredirei",
       "transgredirás",
       "transgredirá",
@@ -7840,7 +7840,7 @@
       "transgredireis",
       "transgredirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "transgrediria",
       "transgredirias",
       "transgrediria",
@@ -7850,7 +7850,7 @@
     ]
   },
   "trazer": {
-    "presente": [
+    "p": [
       "trago",
       "trazes",
       "traz",
@@ -7858,7 +7858,7 @@
       "trazeis",
       "trazem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "trazia",
       "trazias",
       "trazia",
@@ -7866,7 +7866,7 @@
       "trazíeis",
       "traziam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "trouxe",
       "trouxeste",
       "trouxe",
@@ -7874,7 +7874,7 @@
       "trouxestes",
       "trouxeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "trouxera",
       "trouxeras",
       "trouxera",
@@ -7882,7 +7882,7 @@
       "trouxéreis",
       "trouxeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "trarei",
       "trarás",
       "trará",
@@ -7890,7 +7890,7 @@
       "trareis",
       "trarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "traria",
       "trarias",
       "traria",
@@ -7900,7 +7900,7 @@
     ]
   },
   "valer": {
-    "presente": [
+    "p": [
       "valho",
       "vales",
       "vale",
@@ -7908,7 +7908,7 @@
       "valeis",
       "valem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "valia",
       "valias",
       "valia",
@@ -7916,7 +7916,7 @@
       "valíeis",
       "valiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "vali",
       "valeste",
       "valeu",
@@ -7924,7 +7924,7 @@
       "valestes",
       "valeram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "valera",
       "valeras",
       "valera",
@@ -7932,7 +7932,7 @@
       "valêreis",
       "valeram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "valerei",
       "valerás",
       "valerá",
@@ -7940,7 +7940,7 @@
       "valereis",
       "valerão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "valeria",
       "valerias",
       "valeria",
@@ -7950,7 +7950,7 @@
     ]
   },
   "ver": {
-    "presente": [
+    "p": [
       "vejo",
       "vês",
       "vê",
@@ -7958,7 +7958,7 @@
       "veis",
       "vêem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "via",
       "vias",
       "via",
@@ -7966,7 +7966,7 @@
       "víeis",
       "viam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "vi",
       "viste",
       "viu",
@@ -7974,7 +7974,7 @@
       "vistes",
       "viram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "vira",
       "viras",
       "vira",
@@ -7982,7 +7982,7 @@
       "víreis",
       "viram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "verei",
       "verás",
       "verá",
@@ -7990,7 +7990,7 @@
       "vereis",
       "verão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "veria",
       "verias",
       "veria",
@@ -8000,7 +8000,7 @@
     ]
   },
   "vestir": {
-    "presente": [
+    "p": [
       "visto",
       "vestes",
       "veste",
@@ -8008,7 +8008,7 @@
       "vestis",
       "vestem"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "vestia",
       "vestias",
       "vestia",
@@ -8016,7 +8016,7 @@
       "vestíeis",
       "vestiam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "vesti",
       "vestiste",
       "vestiu",
@@ -8024,7 +8024,7 @@
       "vestistes",
       "vestiram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "vestira",
       "vestiras",
       "vestira",
@@ -8032,7 +8032,7 @@
       "vestíreis",
       "vestiram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "vestirei",
       "vestirás",
       "vestirá",
@@ -8040,7 +8040,7 @@
       "vestireis",
       "vestirão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "vestiria",
       "vestirias",
       "vestiria",
@@ -8050,7 +8050,7 @@
     ]
   },
   "vir": {
-    "presente": [
+    "p": [
       "venho",
       "vens",
       "vem",
@@ -8058,7 +8058,7 @@
       "vindes",
       "vêm"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "vinha",
       "vinhas",
       "vinha",
@@ -8066,7 +8066,7 @@
       "vínheis",
       "vinham"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "vim",
       "vieste",
       "veio",
@@ -8074,7 +8074,7 @@
       "viestes",
       "vieram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "viera",
       "vieras",
       "viera",
@@ -8082,7 +8082,7 @@
       "viéreis",
       "vieram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "virei",
       "virás",
       "virá",
@@ -8090,7 +8090,7 @@
       "vireis",
       "virão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "viria",
       "virias",
       "viria",
@@ -8100,7 +8100,7 @@
     ]
   },
   "viuvar": {
-    "presente": [
+    "p": [
       "viúvo",
       "viúvas",
       "viúva",
@@ -8108,7 +8108,7 @@
       "viuvais",
       "viúvam"
     ],
-    "preteritoImperfeito": [
+    "pi": [
       "viuvava",
       "viuvavas",
       "viuvava",
@@ -8116,7 +8116,7 @@
       "viuváveis",
       "viuvavam"
     ],
-    "preteritoPerfeito": [
+    "pp": [
       "viuvei",
       "viuvaste",
       "viuvou",
@@ -8124,7 +8124,7 @@
       "viuvastes",
       "viuvaram"
     ],
-    "preteritoMaisQuePerfeito": [
+    "pmqp": [
       "viuvara",
       "viuvaras",
       "viuvara",
@@ -8132,7 +8132,7 @@
       "viuváreis",
       "viuvaram"
     ],
-    "futuroDoPresente": [
+    "fpte": [
       "viuvarei",
       "viuvarás",
       "viuvará",
@@ -8140,7 +8140,7 @@
       "viuvareis",
       "viuvarão"
     ],
-    "futuroDoPreterito": [
+    "fpto": [
       "viuvaria",
       "viuvarias",
       "viuvaria",

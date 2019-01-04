@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-const conjugar = require("../src");
+const conjugate = require('../index');
 
 /**
  * PARTIR
@@ -8,56 +8,56 @@ const conjugar = require("../src");
  *
  * Testa os verbos regulares terminados em -ir.
  */
-describe("sufixo -ir:", () => {
-  it("deve conjugar o 'partir'", () => {
-    expect(conjugar("partir")).toEqual({
-      "presente": [
-        "parto",
-        "partes",
-        "parte",
-        "partimos",
-        "partis",
-        "partem"
+describe('Sufixo -ir:', () => {
+  it('Deve conjugar o verbo "partir"', () => {
+    expect(conjugate('partir')).toEqual({
+      p: [
+        'parto',
+        'partes',
+        'parte',
+        'partimos',
+        'partis',
+        'partem'
       ],
-      "preteritoImperfeito": [
-        "partia",
-        "partias",
-        "partia",
-        "partíamos",
-        "partíeis",
-        "partiam"
+      pi: [
+        'partia',
+        'partias',
+        'partia',
+        'partíamos',
+        'partíeis',
+        'partiam'
       ],
-      "preteritoPerfeito": [
-        "parti",
-        "partiste",
-        "partiu",
-        "partimos",
-        "partistes",
-        "partiram"
+      pp: [
+        'parti',
+        'partiste',
+        'partiu',
+        'partimos',
+        'partistes',
+        'partiram'
       ],
-      "preteritoMaisQuePerfeito": [
-        "partira",
-        "partiras",
-        "partira",
-        "partíramos",
-        "partíreis",
-        "partiram"
+      pmqp: [
+        'partira',
+        'partiras',
+        'partira',
+        'partíramos',
+        'partíreis',
+        'partiram'
       ],
-      "futuroDoPresente": [
-        "partirei",
-        "partirás",
-        "partirá",
-        "partiremos",
-        "partireis",
-        "partirão"
+      fpte: [
+        'partirei',
+        'partirás',
+        'partirá',
+        'partiremos',
+        'partireis',
+        'partirão'
       ],
-      "futuroDoPreterito": [
-        "partiria",
-        "partirias",
-        "partiria",
-        "partiríamos",
-        "partiríeis",
-        "partiriam"
+      fpto: [
+        'partiria',
+        'partirias',
+        'partiria',
+        'partiríamos',
+        'partiríeis',
+        'partiriam'
       ]
     });
   });

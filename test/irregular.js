@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-const conjugar = require("../src");
+const conjugate = require('../index');
 
 /**
  * ESTAR
@@ -8,56 +8,56 @@ const conjugar = require("../src");
  *
  * Testa os verbos irregulares.
  */
-describe("verbo irregular:", () => {
-  it("deve conjugar o verbo 'estar'", () => {
-    expect(conjugar("estar")).toEqual({
-      "presente": [
-        "estou",
-        "estás",
-        "está",
-        "estamos",
-        "estais",
-        "estão"
+describe('Verbo irregular:', () => {
+  it('Deve conjugar o verbo "estar"', () => {
+    expect(conjugate('estar')).toEqual({
+      p: [
+        'estou',
+        'estás',
+        'está',
+        'estamos',
+        'estais',
+        'estão'
       ],
-      "preteritoImperfeito": [
-        "estava",
-        "estavas",
-        "estava",
-        "estávamos",
-        "estáveis",
-        "estavam"
+      pi: [
+        'estava',
+        'estavas',
+        'estava',
+        'estávamos',
+        'estáveis',
+        'estavam'
       ],
-      "preteritoPerfeito": [
-        "estive",
-        "estiveste",
-        "esteve",
-        "estivemos",
-        "estivestes",
-        "estiveram"
+      pp: [
+        'estive',
+        'estiveste',
+        'esteve',
+        'estivemos',
+        'estivestes',
+        'estiveram'
       ],
-      "preteritoMaisQuePerfeito": [
-        "estivera",
-        "estiveras",
-        "estivera",
-        "estivéramos",
-        "estivéreis",
-        "estiverem"
+      pmqp: [
+        'estivera',
+        'estiveras',
+        'estivera',
+        'estivéramos',
+        'estivéreis',
+        'estiverem'
       ],
-      "futuroDoPresente": [
-        "estarei",
-        "estarás",
-        "estará",
-        "estaremos",
-        "estareis",
-        "estarão"
+      fpte: [
+        'estarei',
+        'estarás',
+        'estará',
+        'estaremos',
+        'estareis',
+        'estarão'
       ],
-      "futuroDoPreterito": [
-        "estaria",
-        "estarias",
-        "estaria",
-        "estaríamos",
-        "estaríeis",
-        "estariam"
+      fpto: [
+        'estaria',
+        'estarias',
+        'estaria',
+        'estaríamos',
+        'estaríeis',
+        'estariam'
       ]
     });
   });

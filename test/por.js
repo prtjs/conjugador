@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-const conjugar = require("../src");
+const conjugate = require('../index');
 
 /**
  * PÔR
@@ -8,56 +8,56 @@ const conjugar = require("../src");
  *
  * Testa os verbos irregulares terminados em -pôr.
  */
-describe("sufixo -pôr:", () => {
-  it("deve conjugar o verbo 'pôr'", () => {
-    expect(conjugar("pôr")).toEqual({
-      "presente": [
-        "ponho",
-        "pões",
-        "põe",
-        "pomos",
-        "pondes",
-        "põem"
+describe('Sufixo -pôr:', () => {
+  it('Deve conjugar o verbo "pôr"', () => {
+    expect(conjugate('pôr')).toEqual({
+      p: [
+        'ponho',
+        'pões',
+        'põe',
+        'pomos',
+        'pondes',
+        'põem'
       ],
-      "preteritoImperfeito": [
-        "punha",
-        "punhas",
-        "punha",
-        "púnhamos",
-        "púnheis",
-        "punham"
+      pi: [
+        'punha',
+        'punhas',
+        'punha',
+        'púnhamos',
+        'púnheis',
+        'punham'
       ],
-      "preteritoPerfeito": [
-        "pus",
-        "puseste",
-        "pôs",
-        "pusemos",
-        "pusestes",
-        "puseram"
+      pp: [
+        'pus',
+        'puseste',
+        'pôs',
+        'pusemos',
+        'pusestes',
+        'puseram'
       ],
-      "preteritoMaisQuePerfeito": [
-        "pusera",
-        "puseras",
-        "pusera",
-        "puséramos",
-        "puséreis",
-        "puseram"
+      pmqp: [
+        'pusera',
+        'puseras',
+        'pusera',
+        'puséramos',
+        'puséreis',
+        'puseram'
       ],
-      "futuroDoPresente": [
-        "porei",
-        "porás",
-        "porá",
-        "poremos",
-        "poreis",
-        "porão"
+      fpte: [
+        'porei',
+        'porás',
+        'porá',
+        'poremos',
+        'poreis',
+        'porão'
       ],
-      "futuroDoPreterito": [
-        "poria",
-        "porias",
-        "poria",
-        "poríamos",
-        "poríeis",
-        "poriam"
+      fpto: [
+        'poria',
+        'porias',
+        'poria',
+        'poríamos',
+        'poríeis',
+        'poriam'
       ]
     });
   });

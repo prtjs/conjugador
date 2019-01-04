@@ -1,6 +1,6 @@
-"use strict";
+'use strict';
 
-const conjugar = require("../src");
+const conjugate = require('../index');
 
 /**
  * VIVER
@@ -8,56 +8,56 @@ const conjugar = require("../src");
  *
  * Testa os verbos regulares terminados em -er.
  */
-describe("sufixo -er:", () => {
-  it("deve conjugar o verbo 'viver'", () => {
-    expect(conjugar("viver")).toEqual({
-      "presente": [
-        "vivo",
-        "vives",
-        "vive",
-        "vivemos",
-        "viveis",
-        "vivem"
+describe('Sufixo -er:', () => {
+  it('Deve conjugar o verbo "viver"', () => {
+    expect(conjugate('viver')).toEqual({
+      p: [
+        'vivo',
+        'vives',
+        'vive',
+        'vivemos',
+        'viveis',
+        'vivem'
       ],
-      "preteritoImperfeito": [
-        "vivia",
-        "vivias",
-        "vivia",
-        "vivíamos",
-        "vivíeis",
-        "viviam"
+      pi: [
+        'vivia',
+        'vivias',
+        'vivia',
+        'vivíamos',
+        'vivíeis',
+        'viviam'
       ],
-      "preteritoPerfeito": [
-        "vivi",
-        "viveste",
-        "viveu",
-        "vivemos",
-        "vivestes",
-        "viveram"
+      pp: [
+        'vivi',
+        'viveste',
+        'viveu',
+        'vivemos',
+        'vivestes',
+        'viveram'
       ],
-      "preteritoMaisQuePerfeito": [
-        "vivera",
-        "viveras",
-        "vivera",
-        "vivêramos",
-        "vivêreis",
-        "viveram"
+      pmqp: [
+        'vivera',
+        'viveras',
+        'vivera',
+        'vivêramos',
+        'vivêreis',
+        'viveram'
       ],
-      "futuroDoPresente": [
-        "viverei",
-        "viverás",
-        "viverá",
-        "viveremos",
-        "vivereis",
-        "viverão"
+      fpte: [
+        'viverei',
+        'viverás',
+        'viverá',
+        'viveremos',
+        'vivereis',
+        'viverão'
       ],
-      "futuroDoPreterito": [
-        "viveria",
-        "viverias",
-        "viveria",
-        "viveríamos",
-        "viveríeis",
-        "viveriam"
+      fpto: [
+        'viveria',
+        'viverias',
+        'viveria',
+        'viveríamos',
+        'viveríeis',
+        'viveriam'
       ]
     });
   });
