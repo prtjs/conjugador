@@ -17,7 +17,7 @@ module.exports = {
   },
   output: {
     filename: "[name].js",
-    path: path.resolve(__dirname, "build"),
+    path: path.resolve(__dirname, "dist"),
     library: "conjugar",
     libraryTarget: "umd"
   },
