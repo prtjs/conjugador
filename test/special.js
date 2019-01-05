@@ -10,7 +10,7 @@ describe('Caso especial: Prefixo -ar: Pretérito perfeito', () => {
     expect(conjugate('apagar').pp[0]).toBe('apaguei');
   });
   it('-çar', () => {
-    expect(conjugate('começar').pp[0]).toBe('comceei');
+    expect(conjugate('começar').pp[0]).toBe('comecei');
   });
 });
 
