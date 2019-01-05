@@ -1,6 +1,6 @@
 'use strict';
 
-const conjugate = require('../index');
+const conjugar = require('../index');
 
 /**
  * AMAR
@@ -10,7 +10,7 @@ const conjugate = require('../index');
  */
 describe('Sufixo -ar:', () => {
   it('Deve conjugar o verbo "amar"', () => {
-    expect(conjugate('amar')).toEqual({
+    expect(conjugar('amar')).toEqual({
       p: [
         'amo',
         'amas',

@@ -1,6 +1,6 @@
 'use strict';
 
-const conjugate = require('../index');
+const conjugar = require('../index');
 
 /**
  * PÔR
@@ -10,7 +10,7 @@ const conjugate = require('../index');
  */
 describe('Sufixo -pôr:', () => {
   it('Deve conjugar o verbo "pôr"', () => {
-    expect(conjugate('pôr')).toEqual({
+    expect(conjugar('pôr')).toEqual({
       p: [
         'ponho',
         'pões',

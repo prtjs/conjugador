@@ -1,6 +1,6 @@
 'use strict';
 
-const conjugate = require('../index');
+const conjugar = require('../index');
 
 /**
  * PARTIR
@@ -10,7 +10,7 @@ const conjugate = require('../index');
  */
 describe('Sufixo -ir:', () => {
   it('Deve conjugar o verbo "partir"', () => {
-    expect(conjugate('partir')).toEqual({
+    expect(conjugar('partir')).toEqual({
       p: [
         'parto',
         'partes',

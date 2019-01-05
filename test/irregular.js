@@ -1,6 +1,6 @@
 'use strict';
 
-const conjugate = require('../index');
+const conjugar = require('../index');
 
 /**
  * ESTAR
@@ -10,7 +10,7 @@ const conjugate = require('../index');
  */
 describe('Verbo irregular:', () => {
   it('Deve conjugar o verbo "estar"', () => {
-    expect(conjugate('estar')).toEqual({
+    expect(conjugar('estar')).toEqual({
       p: [
         'estou',
         'estás',
