@@ -9,8 +9,8 @@ const banner = `Conjugador.js v${version} | ${license} (c) 2016-${(new Date()).g
 
 module.exports = {
   entry: {
-    'conjugador': './src/index.js',
-    'conjugador.min': './src/index.js'
+    'conjugador': './index.js',
+    'conjugador.min': './index.js'
   },
   output: {
     filename: '[name].js',
