@@ -78,6 +78,8 @@ irregulares com ajuda de uma lista pronta com mais de 163 verbos conhecidos.
 Não é exigido que o verbo seja "oficial", bastando ser conjugável, portanto
 também é possível conjugar verbos como *twittar*, *forkar*, *photoshopar*, etc.
 
+Sinta-se livre para enviar um Pull Request com mais verbos irregulares!
+
 ## Licença
 
 MIT &copy; Matheus Alves
