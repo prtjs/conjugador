@@ -2,7 +2,8 @@
 
 > Um conjugador de verbos da língua portuguesa.
 
-![Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)
+[![Status](https://travis-ci.org/theuves/conjugador.svg?branch=master)](https://travis-ci.org/theuves/conjugador.svg)
+[![Doar](https://img.shields.io/badge/paypal-doar-179bd7.svg?logo=paypal&style=flat&logoColor=blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WZ447WCJ54XG&source=url)
 
 Um simple utilitário para conjugar verbos da língua portuguesa, regulares ou
 irregulares, nos seis tempos do modo indicativo (presente, pretérito imperfeito,
@@ -79,6 +80,16 @@ Não é exigido que o verbo seja "oficial", bastando ser conjugável, portanto
 também é possível conjugar verbos como *twittar*, *forkar*, *photoshopar*, etc.
 
 Sinta-se livre para enviar um Pull Request com mais verbos irregulares!
+
+## Doações
+
+Gostou ou está usando esse ou outros projetos mantidos por mim?
+
+Você pode me ajudar fazendo uma doação.
+
+Qualquer valor é bem-vindo.
+
+[![Link para doar](https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WZ447WCJ54XG&source=url)
 
 ## Licença
 
