@@ -2,7 +2,7 @@
   "name": "conjugador",
   "version": "2.0.0",
   "description": "Um conjugador de verbos da língua portuguesa.",
-  "main": "build/conjugador.min.js",
+  "main": "dist/conjugador.min.js",
   "files": [
     "dist"
   ],
